@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Advokatfirmaet Egeland</title>
+    <title>Patricks Juridisk Senter</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -62,12 +62,12 @@
             <a href="index.php" class="group flex items-center gap-3">
                 <div
                     class="w-10 h-10 bg-law-blue text-law-gold flex items-center justify-center font-serif font-bold text-xl rounded-sm">
-                    E</div>
+                    P</div>
                 <div class="flex flex-col">
                     <span
-                        class="text-xl font-serif font-bold text-law-blue tracking-wide leading-none group-hover:text-law-gold transition duration-300">EGELAND</span>
+                        class="text-xl font-serif font-bold text-law-blue tracking-wide leading-none group-hover:text-law-gold transition duration-300">PATRICKS</span>
                     <span
-                        class="text-[10px] font-medium text-slate-500 uppercase tracking-[0.25em] leading-none mt-1">Advokatfirma</span>
+                        class="text-[10px] font-medium text-slate-500 uppercase tracking-[0.25em] leading-none mt-1">Juridisk Senter</span>
                 </div>
             </a>
 

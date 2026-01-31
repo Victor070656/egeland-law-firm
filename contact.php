@@ -55,7 +55,7 @@
                         </div>
                         <div>
                             <h4 class="font-serif font-medium text-law-blue text-lg">Send oss e-post</h4>
-                            <p class="text-slate-500 font-light mt-1">post@advokat-egeland.no</p>
+                            <p class="text-slate-500 font-light mt-1">post@patricks-juridisk.no</p>
                         </div>
                     </div>
                 </div>

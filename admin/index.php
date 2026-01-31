@@ -21,7 +21,7 @@ $result = $conn->query($sql);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dashboard - Egeland Law Firm</title>
+    <title>Dashboard - Patricks Juridisk Senter</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -51,8 +51,8 @@ $result = $conn->query($sql);
         <aside class="w-64 bg-law-blue text-white flex-shrink-0 hidden md:block">
             <div class="p-6 border-b border-slate-700">
                 <a href="../index.php" class="flex items-center gap-3 group">
-                    <div class="w-8 h-8 bg-law-gold text-law-blue flex items-center justify-center font-serif font-bold text-lg rounded-sm">E</div>
-                     <span class="text-lg font-serif font-bold tracking-wide group-hover:text-law-gold transition">EGELAND</span>
+                    <div class="w-8 h-8 bg-law-gold text-law-blue flex items-center justify-center font-serif font-bold text-lg rounded-sm">P</div>
+                     <span class="text-lg font-serif font-bold tracking-wide group-hover:text-law-gold transition">PATRICKS</span>
                 </a>
             </div>
             <nav class="p-4 space-y-2">

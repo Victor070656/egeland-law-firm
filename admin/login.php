@@ -10,7 +10,7 @@ if (isset($_SESSION['user_id'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login - Egeland Law Firm Admin</title>
+    <title>Login - Patricks Juridisk Senter Admin</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -37,7 +37,7 @@ if (isset($_SESSION['user_id'])) {
 
     <div class="bg-white p-10 rounded-sm shadow-xl w-full max-w-md border-t-4 border-law-gold">
         <div class="text-center mb-8">
-            <div class="w-12 h-12 bg-law-blue text-law-gold flex items-center justify-center font-serif font-bold text-xl rounded-sm mx-auto mb-4">E</div>
+            <div class="w-12 h-12 bg-law-blue text-law-gold flex items-center justify-center font-serif font-bold text-xl rounded-sm mx-auto mb-4">P</div>
             <h1 class="text-2xl font-serif text-law-blue font-bold">Admin Portal</h1>
             <p class="text-slate-400 text-sm mt-2">Please sign in to continue</p>
         </div>

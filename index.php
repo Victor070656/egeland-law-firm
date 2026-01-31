@@ -71,7 +71,7 @@
                 <h2 class="text-4xl font-serif font-light text-law-blue mb-8 leading-tight">Forpliktet til dine rettigheter og fremtid</h2>
                 
                 <p class="text-slate-600 mb-6 leading-loose font-light">
-                    Tillit er hjørnesteinen i ethvert effektivt advokat-klient-forhold. Hos Advokatfirmaet Egeland spesialiserer vi oss på å hjelpe enkeltpersoner med å navigere i det komplekse juridiske landskapet innen barnevern, trygderett (NAV), utlendingsrett og familierett.
+                    Tillit er hjørnesteinen i ethvert effektivt advokat-klient-forhold. Hos Patricks Juridisk Senter spesialiserer vi oss på å hjelpe enkeltpersoner med å navigere i det komplekse juridiske landskapet innen barnevern, trygderett (NAV), utlendingsrett og familierett.
                 </p>
                 <p class="text-slate-600 mb-10 leading-loose font-light">
                     Vårt team har bred ekspertise og innsikt fra de faglige organene vi møter. Vi har dokumenterte resultater og sikrer at du får representasjon av høyeste kvalitet.
@@ -227,7 +227,7 @@
                     <div class="text-law-gold flex">★★★★★</div>
                 </div>
                 <p class="text-slate-600 font-light italic mb-6 leading-relaxed flex-grow">
-                    "Jeg stod i en svært vanskelig familiesituasjon, og teamet hos Egeland håndterte det med stor profesjonalitet og empati. De forklarte alt tydelig og kjempet for mine rettigheter."
+                    "Jeg stod i en svært vanskelig familiesituasjon, og teamet hos Patricks håndterte det med stor profesjonalitet og empati. De forklarte alt tydelig og kjempet for mine rettigheter."
                 </p>
                 <div class="text-sm mt-auto">
                     <span class="font-bold text-law-blue block">Kari H.</span>
@@ -242,7 +242,7 @@
                     <div class="text-law-gold flex">★★★★★</div>
                 </div>
                 <p class="text-slate-600 font-light italic mb-6 leading-relaxed flex-grow">
-                    "Å navigere i NAV-systemet føltes umulig frem til jeg kontaktet Advokatfirmaet Egeland. Deres ekspertise var tydelig fra dag én, og vi fikk omgjort vedtaket."
+                    "Å navigere i NAV-systemet føltes umulig frem til jeg kontaktet Patricks Juridisk Senter. Deres ekspertise var tydelig fra dag én, og vi fikk omgjort vedtaket."
                 </p>
                 <div class="text-sm mt-auto">
                     <span class="font-bold text-law-blue block">Anders P.</span>
@@ -272,7 +272,7 @@
                     <div class="text-law-gold flex">★★★★★</div>
                 </div>
                 <p class="text-slate-600 font-light italic mb-6 leading-relaxed flex-grow">
-                    "Da barnevernet ble involvert, var jeg livredd. Advokatfirmaet Egeland stod ved min side hele veien og hjalp med å bringe familien min sammen igjen."
+                    "Da barnevernet ble involvert, var jeg livredd. Patricks Juridisk Senter stod ved min side hele veien og hjalp med å bringe familien min sammen igjen."
                 </p>
                 <div class="text-sm mt-auto">
                     <span class="font-bold text-law-blue block">Thomas L.</span>
@@ -318,13 +318,13 @@
     <div class="container mx-auto px-8">
         <div class="flex flex-col md:flex-row items-center gap-16">
             <div class="md:w-1/2">
-                <img src="https://kcdefensecounsel.com/wp-content/uploads/2024/02/weve-got-his-back-shot-of-a-group-of-lawyers-stan-2023-11-27-04-56-46-utc-1-scaled.jpg" alt="Our Team" class="rounded-sm shadow-xl shadow-blue-900/10 grayscale hover:grayscale-0 transition-all duration-700">
+                <img src="assets/images/ceo.jpeg" alt="Our Team" class="rounded-sm shadow-xl shadow-blue-900/10 grayscale hover:grayscale-0 transition-all duration-700">
             </div>
             <div class="md:w-1/2">
                 <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Teamet</span>
                 <h2 class="text-4xl font-serif font-light text-law-blue mb-6">Møt våre advokater</h2>
                 <p class="text-slate-600 mb-8 leading-loose font-light">
-                    Vår styrke ligger i våre folk. Advokatfirmaet Egeland består av dedikerte advokater med spesialisert erfaring innen sine felt. Vi samarbeider for å sikre at du får best mulig juridisk representasjon.
+                    Vår styrke ligger i våre folk. Patricks Juridisk Senter består av dedikerte advokater med spesialisert erfaring innen sine felt. Vi samarbeider for å sikre at du får best mulig juridisk representasjon.
                 </p>
                 <a href="about.php" class="bg-law-blue text-white px-8 py-4 rounded-sm hover:bg-law-gold transition-all duration-300 font-bold tracking-widest text-xs uppercase shadow-lg shadow-blue-900/20">
                     Se vårt team
@@ -367,7 +367,7 @@
                         </div>
                         <div>
                             <h4 class="font-serif font-medium text-white text-lg">Send oss e-post</h4>
-                            <p class="text-slate-400 font-light mt-1">post@advokat-egeland.no</p>
+                            <p class="text-slate-400 font-light mt-1">post@patricks-juridisk.no</p>
                         </div>
                     </div>
 

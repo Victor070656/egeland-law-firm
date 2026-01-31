@@ -6,8 +6,8 @@
             <!-- Company Info -->
             <div class="col-span-1 md:col-span-2">
                 <div class="flex items-center gap-3 mb-6">
-                     <div class="w-8 h-8 bg-law-gold text-law-blue flex items-center justify-center font-serif font-bold text-lg rounded-sm">E</div>
-                     <span class="text-xl font-serif font-bold tracking-wide">EGELAND</span>
+                     <div class="w-8 h-8 bg-law-gold text-law-blue flex items-center justify-center font-serif font-bold text-lg rounded-sm">P</div>
+                     <span class="text-xl font-serif font-bold tracking-wide">PATRICKS</span>
                 </div>
                 <p class="text-slate-400 text-sm leading-relaxed mb-8 max-w-sm font-light">
                     Spesialister innen familierett, trygderett og utlendingsrett. Vi tilbyr erfaren juridisk bistand med en personlig tilnærming og en forpliktelse til integritet.
@@ -44,13 +44,13 @@
                     
                     <li class="flex items-center">
                         <svg class="w-5 h-5 mr-3 text-law-gold opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
-                        <span>post@advokat-egeland.no</span>
+                        <span>post@patricks-juridisk.no</span>
                     </li>
                 </ul>
             </div>
         </div>
         <div class="border-t border-slate-800 pt-8 text-center text-xs text-slate-600 uppercase tracking-widest">
-            &copy; <?php echo date("Y"); ?> Advokatfirmaet Egeland. Alle rettigheter reservert.
+            &copy; <?php echo date("Y"); ?> Patricks Juridisk Senter. Alle rettigheter reservert.
         </div>
     </div>
 </footer>
