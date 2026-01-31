@@ -26,7 +26,7 @@
                     <h2 class="text-4xl font-serif font-light text-law-blue mb-8 leading-tight">A Legacy of Legal Excellence</h2>
                     <div class="prose prose-lg text-slate-600 font-light leading-loose">
                         <p class="mb-6">
-                            Founded in 2005 by Eirik Egeland, our firm began with a singular mission: to provide high-caliber legal representation that is accessible, empathetic, and relentlessly effective. What started as a boutique practice in Stavanger has grown into a respected institution known for handling some of the region's most complex cases in family and administrative law.
+                            Founded in 2005 by Thompson Greene, our firm began with a singular mission: to provide high-caliber legal representation that is accessible, empathetic, and relentlessly effective. What started as a boutique practice in Stavanger has grown into a respected institution known for handling some of the region's most complex cases in family and administrative law.
                         </p>
                         <p class="mb-6">
                             Over the past two decades, we have successfully represented hundreds of clients against powerful institutions like NAV and the Child Welfare Services. Our growth has been organic, driven by word-of-mouth referrals from satisfied clients who found hope and resolution through our advocacy.
@@ -148,49 +148,44 @@
             <h2 class="text-4xl font-serif font-light text-law-blue">Meet Our Attorneys</h2>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <!-- Attorney 1 -->
-            <div class="bg-white rounded-sm shadow-soft overflow-hidden group">
-                <div class="h-80 overflow-hidden relative">
-                    <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" alt="Lawyer" class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700">
-                </div>
-                <div class="p-8">
-                    <h3 class="text-xl font-serif font-medium text-law-blue mb-1">Eirik Egeland</h3>
-                    <p class="text-law-gold text-xs font-bold tracking-widest uppercase mb-4">Founder & Partner</p>
-                    <p class="text-slate-500 font-light text-sm leading-relaxed mb-6">
-                        Specializes in family law and child welfare with over 15 years of litigation experience in Norwegian courts.
-                    </p>
-                    <a href="#" class="text-law-blue font-semibold text-xs tracking-widest uppercase hover:text-law-gold transition-colors">View Profile &rarr;</a>
-                </div>
-            </div>
-
-             <!-- Attorney 2 -->
-            <div class="bg-white rounded-sm shadow-soft overflow-hidden group">
-                <div class="h-80 overflow-hidden relative">
-                    <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" alt="Lawyer" class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700">
-                </div>
-                <div class="p-8">
-                    <h3 class="text-xl font-serif font-medium text-law-blue mb-1">Sarah Johansen</h3>
-                    <p class="text-law-gold text-xs font-bold tracking-widest uppercase mb-4">Senior Associate</p>
-                    <p class="text-slate-500 font-light text-sm leading-relaxed mb-6">
-                        Expert in immigration law and asylum cases, dedicated to helping families reunite and secure their future.
-                    </p>
-                    <a href="#" class="text-law-blue font-semibold text-xs tracking-widest uppercase hover:text-law-gold transition-colors">View Profile &rarr;</a>
+        <div class="flex flex-col md:flex-row gap-16 items-start justify-center">
+            <!-- Founder (Featured) -->
+            <div class="w-full md:w-5/12 lg:w-1/3">
+                <div class="bg-white rounded-sm shadow-soft overflow-hidden group">
+                    <div class="h-80 overflow-hidden relative">
+                        <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" alt="Lawyer" class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700">
+                    </div>
+                    <div class="p-8">
+                        <h3 class="text-xl font-serif font-medium text-law-blue mb-1">Thompson Greene</h3>
+                        <p class="text-law-gold text-xs font-bold tracking-widest uppercase mb-4">Founder & Partner</p>
+                        <p class="text-slate-500 font-light text-sm leading-relaxed mb-6">
+                            Specializes in family law and child welfare with over 15 years of litigation experience in Norwegian courts.
+                        </p>
+                    </div>
                 </div>
             </div>
 
-             <!-- Attorney 3 -->
-            <div class="bg-white rounded-sm shadow-soft overflow-hidden group">
-                <div class="h-80 overflow-hidden relative">
-                    <img src="https://images.unsplash.com/photo-1556157382-97eda2d62296?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" alt="Lawyer" class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700">
-                </div>
-                <div class="p-8">
-                    <h3 class="text-xl font-serif font-medium text-law-blue mb-1">Magnus Berg</h3>
-                    <p class="text-law-gold text-xs font-bold tracking-widest uppercase mb-4">Associate</p>
-                    <p class="text-slate-500 font-light text-sm leading-relaxed mb-6">
-                        Focuses on social security law (NAV) and appeals, ensuring clients receive the benefits they are entitled to.
-                    </p>
-                    <a href="#" class="text-law-blue font-semibold text-xs tracking-widest uppercase hover:text-law-gold transition-colors">View Profile &rarr;</a>
+            <!-- Other Attorneys List -->
+            <div class="w-full md:w-5/12 lg:w-1/3 pt-4">
+                <h3 class="text-2xl font-serif font-medium text-law-blue mb-8">Other Attorneys</h3>
+                <div class="space-y-8">
+                    <!-- Sarah -->
+                    <div class="border-b border-slate-100 pb-6 last:border-0">
+                        <h4 class="text-lg font-serif font-medium text-law-blue mb-1">Sarah Johansen</h4>
+                        <p class="text-law-gold text-xs font-bold tracking-widest uppercase mb-2">Senior Associate</p>
+                        <p class="text-slate-500 font-light text-sm leading-relaxed">
+                            Expert in immigration law and asylum cases, dedicated to helping families reunite and secure their future.
+                        </p>
+                    </div>
+                    
+                    <!-- Magnus -->
+                    <div class="border-b border-slate-100 pb-6 last:border-0">
+                        <h4 class="text-lg font-serif font-medium text-law-blue mb-1">Magnus Berg</h4>
+                        <p class="text-law-gold text-xs font-bold tracking-widest uppercase mb-2">Associate</p>
+                        <p class="text-slate-500 font-light text-sm leading-relaxed">
+                            Focuses on social security law (NAV) and appeals, ensuring clients receive the benefits they are entitled to.
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
