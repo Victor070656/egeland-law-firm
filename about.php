@@ -19,19 +19,40 @@
     <div class="container mx-auto px-8">
         <div class="flex flex-col lg:flex-row gap-20 items-start">
             <div class="lg:w-2/3">
-                <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Our Philosophy</span>
-                <h2 class="text-4xl font-serif font-light text-law-blue mb-10 leading-tight">Advocating for Your Rights with Integrity</h2>
                 
-                <div class="prose prose-lg text-slate-600 font-light">
-                    <p class="mb-6 leading-loose">
-                        Advokatfirmaet Egeland is a specialized law firm focusing on <span class="text-law-blue font-medium">family law</span>, <span class="text-law-blue font-medium">social security law (NAV)</span>, and <span class="text-law-blue font-medium">immigration law</span>. We understand that legal issues often touch upon the most personal and critical aspects of our clients' lives.
-                    </p>
-                    <p class="mb-6 leading-loose">
-                        Our lawyers possess broad expertise and concrete experience from several of the professional bodies we encounter in our cases. This insider knowledge allows us to navigate complex bureaucratic systems effectively on your behalf.
-                    </p>
-                    <p class="mb-10 leading-loose border-l-2 border-law-gold pl-6 italic text-slate-700">
-                        "Trust is paramount. When you choose us, you are not just hiring a lawyer; you are partnering with a dedicated advocate who will fight for your rights."
-                    </p>
+                <!-- Our History -->
+                <div class="mb-20">
+                    <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Our History</span>
+                    <h2 class="text-4xl font-serif font-light text-law-blue mb-8 leading-tight">A Legacy of Legal Excellence</h2>
+                    <div class="prose prose-lg text-slate-600 font-light leading-loose">
+                        <p class="mb-6">
+                            Founded in 2005 by Eirik Egeland, our firm began with a singular mission: to provide high-caliber legal representation that is accessible, empathetic, and relentlessly effective. What started as a boutique practice in Stavanger has grown into a respected institution known for handling some of the region's most complex cases in family and administrative law.
+                        </p>
+                        <p class="mb-6">
+                            Over the past two decades, we have successfully represented hundreds of clients against powerful institutions like NAV and the Child Welfare Services. Our growth has been organic, driven by word-of-mouth referrals from satisfied clients who found hope and resolution through our advocacy.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Our Philosophy -->
+                <div>
+                    <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Our Philosophy</span>
+                    <h2 class="text-4xl font-serif font-light text-law-blue mb-8 leading-tight">Advocating for Your Rights with Integrity</h2>
+                    
+                    <div class="prose prose-lg text-slate-600 font-light">
+                        <p class="mb-6 leading-loose">
+                            Advokatfirmaet Egeland is a specialized law firm focusing on <span class="text-law-blue font-medium">family law</span>, <span class="text-law-blue font-medium">social security law (NAV)</span>, and <span class="text-law-blue font-medium">immigration law</span>. We believe that legal counsel should not just be about interpreting statutes, but about understanding the human lives affected by them.
+                        </p>
+                        <p class="mb-6 leading-loose">
+                            We understand that legal issues often touch upon the most personal and critical aspects of our clients' lives—their children, their financial security, and their right to live in this country. That is why we approach every case with a combination of sharp legal strategy and genuine compassion.
+                        </p>
+                        <p class="mb-6 leading-loose">
+                            Our lawyers possess broad expertise and concrete experience from several of the professional bodies we encounter in our cases. This insider knowledge allows us to navigate complex bureaucratic systems effectively on your behalf, anticipating challenges before they arise.
+                        </p>
+                        <p class="mb-10 leading-loose border-l-2 border-law-gold pl-6 italic text-slate-700 bg-slate-50 py-4 pr-4 rounded-r-sm">
+                            "Trust is paramount. When you choose us, you are not just hiring a lawyer; you are partnering with a dedicated advocate who will fight for your rights as if they were our own."
+                        </p>
+                    </div>
                 </div>
 
                 <h3 class="text-2xl font-serif font-medium text-law-blue mt-16 mb-8">Why Choose Us?</h3>
