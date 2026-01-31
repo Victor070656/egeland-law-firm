@@ -10,7 +10,7 @@
                      <span class="text-xl font-serif font-bold tracking-wide">EGELAND</span>
                 </div>
                 <p class="text-slate-400 text-sm leading-relaxed mb-8 max-w-sm font-light">
-                    Specialists in family law, social security law, and immigration law. We provide experienced legal assistance with a personal touch and a commitment to integrity.
+                    Spesialister innen familierett, trygderett og utlendingsrett. Vi tilbyr erfaren juridisk bistand med en personlig tilnærming og en forpliktelse til integritet.
                 </p>
                 <div class="flex space-x-6">
                     <a href="#" class="text-slate-400 hover:text-white transition-colors"><span class="sr-only">Facebook</span>
@@ -24,18 +24,18 @@
 
             <!-- Quick Links -->
             <div>
-                <h4 class="text-xs font-bold text-law-gold uppercase tracking-[0.2em] mb-8">Practice Areas</h4>
+                <h4 class="text-xs font-bold text-law-gold uppercase tracking-[0.2em] mb-8">Fagområder</h4>
                 <ul class="space-y-4 text-sm text-slate-400 font-light">
-                    <li><a href="services.php#family" class="hover:text-white transition-colors flex items-center"><span class="w-1 h-1 bg-slate-600 rounded-full mr-2"></span>Family Law</a></li>
-                    <li><a href="services.php#social" class="hover:text-white transition-colors flex items-center"><span class="w-1 h-1 bg-slate-600 rounded-full mr-2"></span>Social Security & NAV</a></li>
-                    <li><a href="services.php#child" class="hover:text-white transition-colors flex items-center"><span class="w-1 h-1 bg-slate-600 rounded-full mr-2"></span>Child Welfare</a></li>
-                    <li><a href="services.php#immigration" class="hover:text-white transition-colors flex items-center"><span class="w-1 h-1 bg-slate-600 rounded-full mr-2"></span>Immigration</a></li>
+                    <li><a href="services.php#family" class="hover:text-white transition-colors flex items-center"><span class="w-1 h-1 bg-slate-600 rounded-full mr-2"></span>Familierett</a></li>
+                    <li><a href="services.php#social" class="hover:text-white transition-colors flex items-center"><span class="w-1 h-1 bg-slate-600 rounded-full mr-2"></span>Trygderett & NAV</a></li>
+                    <li><a href="services.php#child" class="hover:text-white transition-colors flex items-center"><span class="w-1 h-1 bg-slate-600 rounded-full mr-2"></span>Barnevern</a></li>
+                    <li><a href="services.php#immigration" class="hover:text-white transition-colors flex items-center"><span class="w-1 h-1 bg-slate-600 rounded-full mr-2"></span>Utlendingsrett</a></li>
                 </ul>
             </div>
 
             <!-- Contact -->
             <div>
-                <h4 class="text-xs font-bold text-law-gold uppercase tracking-[0.2em] mb-8">Contact Us</h4>
+                <h4 class="text-xs font-bold text-law-gold uppercase tracking-[0.2em] mb-8">Kontakt oss</h4>
                 <ul class="space-y-6 text-sm text-slate-400 font-light">
                     <li class="flex items-start">
                         <svg class="w-5 h-5 mr-3 text-law-gold opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
@@ -50,7 +50,7 @@
             </div>
         </div>
         <div class="border-t border-slate-800 pt-8 text-center text-xs text-slate-600 uppercase tracking-widest">
-            &copy; <?php echo date("Y"); ?> Advokatfirmaet Egeland. All rights reserved.
+            &copy; <?php echo date("Y"); ?> Advokatfirmaet Egeland. Alle rettigheter reservert.
         </div>
     </div>
 </footer>

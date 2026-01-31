@@ -12,18 +12,18 @@
     <div class="container mx-auto px-8 relative z-20">
         <div class="max-w-4xl">
             <h1 class="text-5xl md:text-7xl font-serif font-light leading-tight mb-8">
-                Expert Legal Counsel <br>
-                <span class="italic text-law-gold font-serif">You Can Trust</span>
+                Juridisk bistand <br>
+                <span class="italic text-law-gold font-serif">du kan stole på</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-300 mb-10 max-w-2xl font-light leading-relaxed tracking-wide">
-                Specialized expertise in Family Law, Social Security, and Immigration. Dedicated to protecting your rights with integrity and professionalism.
+                Spesialisert kompetanse innen familierett, trygderett og utlendingsrett. Vi beskytter dine rettigheter med integritet og profesjonalitet.
             </p>
             <div class="flex flex-col md:flex-row gap-6">
                 <a href="contact.php" class="bg-law-gold text-white px-10 py-4 rounded-sm hover:bg-white hover:text-law-blue transition-all duration-300 font-semibold tracking-widest text-xs uppercase shadow-lg shadow-yellow-900/20 text-center">
-                    Get a Free Assessment
+                    Få en gratis vurdering
                 </a>
                 <a href="services.php" class="border border-white/30 backdrop-blur-sm text-white px-10 py-4 rounded-sm hover:bg-white hover:text-law-blue transition-all duration-300 font-semibold tracking-widest text-xs uppercase text-center">
-                    Our Practice Areas
+                    Våre fagområder
                 </a>
             </div>
         </div>
@@ -36,19 +36,19 @@
         <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center divide-x divide-slate-700/50">
             <div>
                 <div class="text-4xl font-serif text-law-gold font-light mb-2">20+</div>
-                <div class="text-xs uppercase tracking-widest text-slate-400">Years of Experience</div>
+                <div class="text-xs uppercase tracking-widest text-slate-400">Års erfaring</div>
             </div>
             <div>
                 <div class="text-4xl font-serif text-law-gold font-light mb-2">500+</div>
-                <div class="text-xs uppercase tracking-widest text-slate-400">Cases Solved</div>
+                <div class="text-xs uppercase tracking-widest text-slate-400">Saker løst</div>
             </div>
             <div>
                 <div class="text-4xl font-serif text-law-gold font-light mb-2">100%</div>
-                <div class="text-xs uppercase tracking-widest text-slate-400">Dedication</div>
+                <div class="text-xs uppercase tracking-widest text-slate-400">Dedikasjon</div>
             </div>
             <div>
-                <div class="text-4xl font-serif text-law-gold font-light mb-2">24h</div>
-                <div class="text-xs uppercase tracking-widest text-slate-400">Response Time</div>
+                <div class="text-4xl font-serif text-law-gold font-light mb-2">24t</div>
+                <div class="text-xs uppercase tracking-widest text-slate-400">Responstid</div>
             </div>
         </div>
     </div>
@@ -67,18 +67,18 @@
             </div>
             
             <div class="md:w-1/2">
-                <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">About Our Firm</span>
-                <h2 class="text-4xl font-serif font-light text-law-blue mb-8 leading-tight">Committed to Your Rights and Future</h2>
+                <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Om vårt firma</span>
+                <h2 class="text-4xl font-serif font-light text-law-blue mb-8 leading-tight">Forpliktet til dine rettigheter og fremtid</h2>
                 
                 <p class="text-slate-600 mb-6 leading-loose font-light">
-                    Trust is the cornerstone of any effective attorney-client relationship. At Egeland Law Firm, we specialize in helping individuals navigate the complex legal landscapes of child welfare, social security (NAV), immigration, and family law.
+                    Tillit er hjørnesteinen i ethvert effektivt advokat-klient-forhold. Hos Advokatfirmaet Egeland spesialiserer vi oss på å hjelpe enkeltpersoner med å navigere i det komplekse juridiske landskapet innen barnevern, trygderett (NAV), utlendingsrett og familierett.
                 </p>
                 <p class="text-slate-600 mb-10 leading-loose font-light">
-                    Our team brings broad expertise and insider knowledge from the professional bodies we encounter. We have a track record of documented results, ensuring you receive representation of the highest caliber.
+                    Vårt team har bred ekspertise og innsikt fra de faglige organene vi møter. Vi har dokumenterte resultater og sikrer at du får representasjon av høyeste kvalitet.
                 </p>
                 
                 <a href="about.php" class="group inline-flex items-center text-law-blue font-semibold tracking-widest text-xs uppercase hover:text-law-gold transition-colors">
-                    <span class="border-b border-law-blue group-hover:border-law-gold pb-1 transition-colors">Learn more about us</span>
+                    <span class="border-b border-law-blue group-hover:border-law-gold pb-1 transition-colors">Les mer om oss</span>
                     <svg class="w-4 h-4 ml-3 transform group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
                 </a>
             </div>
@@ -90,9 +90,9 @@
 <section class="py-24 bg-slate-50">
     <div class="container mx-auto px-8">
         <div class="text-center mb-16 max-w-3xl mx-auto">
-            <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">How We Work</span>
-            <h2 class="text-4xl font-serif font-light text-law-blue mb-6">Your Path to Resolution</h2>
-            <p class="text-slate-500 font-light leading-relaxed">We believe in a transparent, structured approach to handling your legal matters effectively.</p>
+            <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Slik jobber vi</span>
+            <h2 class="text-4xl font-serif font-light text-law-blue mb-6">Din vei til en løsning</h2>
+            <p class="text-slate-500 font-light leading-relaxed">Vi tror på en transparent og strukturert tilnærming for å håndtere dine juridiske saker effektivt.</p>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-3 gap-12 relative">
@@ -104,9 +104,9 @@
                 <div class="w-24 h-24 bg-white border-4 border-slate-50 rounded-full flex items-center justify-center text-law-blue shadow-lg mx-auto mb-8">
                     <span class="font-serif text-3xl font-bold">1</span>
                 </div>
-                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Consultation</h3>
+                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Konsultasjon</h3>
                 <p class="text-slate-500 text-sm leading-relaxed font-light px-4">
-                    We start with a thorough assessment of your case to understand the details and determine the best course of action.
+                    Vi starter med en grundig vurdering av din sak for å forstå detaljene og bestemme den beste fremgangsmåten.
                 </p>
             </div>
 
@@ -115,9 +115,9 @@
                 <div class="w-24 h-24 bg-white border-4 border-slate-50 rounded-full flex items-center justify-center text-law-blue shadow-lg mx-auto mb-8">
                     <span class="font-serif text-3xl font-bold">2</span>
                 </div>
-                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Strategy</h3>
+                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Strategi</h3>
                 <p class="text-slate-500 text-sm leading-relaxed font-light px-4">
-                    Our team develops a tailored legal strategy, gathering necessary documentation and preparing strong arguments.
+                    Vårt team utvikler en skreddersydd juridisk strategi, samler nødvendig dokumentasjon og forbereder sterke argumenter.
                 </p>
             </div>
 
@@ -126,9 +126,9 @@
                 <div class="w-24 h-24 bg-law-gold border-4 border-slate-100 rounded-full flex items-center justify-center text-white shadow-lg mx-auto mb-8">
                     <span class="font-serif text-3xl font-bold">3</span>
                 </div>
-                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Representation</h3>
+                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Representasjon</h3>
                 <p class="text-slate-500 text-sm leading-relaxed font-light px-4">
-                    We stand by your side, representing you in negotiations, hearings, or court to achieve the optimal outcome.
+                    Vi står ved din side og representerer deg i forhandlinger, høringer eller retten for å oppnå det optimale resultatet.
                 </p>
             </div>
         </div>
@@ -142,9 +142,9 @@
 
     <div class="container mx-auto px-8">
         <div class="text-center mb-24 max-w-3xl mx-auto">
-            <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Our Expertise</span>
-            <h2 class="text-4xl font-serif font-light text-law-blue mb-6">Specialized Legal Services</h2>
-            <p class="text-slate-500 font-light leading-relaxed">We offer tailored legal counsel designed to meet the unique challenges of your personal situation.</p>
+            <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Vår ekspertise</span>
+            <h2 class="text-4xl font-serif font-light text-law-blue mb-6">Spesialiserte juridiske tjenester</h2>
+            <p class="text-slate-500 font-light leading-relaxed">Vi tilbyr skreddersydd juridisk rådgivning designet for å møte de unike utfordringene i din personlige situasjon.</p>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -154,12 +154,12 @@
                 <div class="w-14 h-14 bg-slate-50 rounded-full flex items-center justify-center text-law-blue mb-8 group-hover:bg-law-blue group-hover:text-white transition-colors duration-300">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"></path></svg>
                 </div>
-                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Family Law</h3>
+                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Familierett</h3>
                 <p class="text-slate-500 text-sm leading-relaxed mb-8 font-light">
-                    Guidance on child custody, inheritance, divorce settlements, and property division.
+                    Veiledning om barnefordeling, arv, skifteoppgjør og eiendomsdeling.
                 </p>
                 <span class="text-law-gold text-xs font-bold tracking-widest uppercase flex items-center group-hover:translate-x-2 transition-transform duration-300">
-                    Explore <svg class="w-3 h-3 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+                    Utforsk <svg class="w-3 h-3 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
                 </span>
             </a>
 
@@ -169,12 +169,12 @@
                 <div class="w-14 h-14 bg-slate-50 rounded-full flex items-center justify-center text-law-blue mb-8 group-hover:bg-law-blue group-hover:text-white transition-colors duration-300">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
                 </div>
-                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Social Security</h3>
+                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Trygderett</h3>
                 <p class="text-slate-500 text-sm leading-relaxed mb-8 font-light">
-                    Assistance with NAV appeals, disability benefits, and social security rights.
+                    Bistand med klager på NAV-vedtak, uføretrygd og trygderettigheter.
                 </p>
                 <span class="text-law-gold text-xs font-bold tracking-widest uppercase flex items-center group-hover:translate-x-2 transition-transform duration-300">
-                    Explore <svg class="w-3 h-3 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+                    Utforsk <svg class="w-3 h-3 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
                 </span>
             </a>
 
@@ -184,12 +184,12 @@
                 <div class="w-14 h-14 bg-slate-50 rounded-full flex items-center justify-center text-law-blue mb-8 group-hover:bg-law-blue group-hover:text-white transition-colors duration-300">
                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M14.828 14.828a4 4 0 01-5.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                 </div>
-                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Child Welfare</h3>
+                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Barnevern</h3>
                 <p class="text-slate-500 text-sm leading-relaxed mb-8 font-light">
-                    Representation in care orders, visitation rights, and Child Welfare Board cases.
+                    Representasjon i omsorgsovertakelse, samværsrett og fylkesnemndsaker.
                 </p>
                 <span class="text-law-gold text-xs font-bold tracking-widest uppercase flex items-center group-hover:translate-x-2 transition-transform duration-300">
-                    Explore <svg class="w-3 h-3 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+                    Utforsk <svg class="w-3 h-3 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
                 </span>
             </a>
 
@@ -199,12 +199,12 @@
                 <div class="w-14 h-14 bg-slate-50 rounded-full flex items-center justify-center text-law-blue mb-8 group-hover:bg-law-blue group-hover:text-white transition-colors duration-300">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                 </div>
-                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Immigration</h3>
+                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Utlendingsrett</h3>
                 <p class="text-slate-500 text-sm leading-relaxed mb-8 font-light">
-                    Help with residence permits, family reunification, citizenship, and asylum appeals.
+                    Hjelp med oppholdstillatelse, familiegjenforening, statsborgerskap og asylklager.
                 </p>
                 <span class="text-law-gold text-xs font-bold tracking-widest uppercase flex items-center group-hover:translate-x-2 transition-transform duration-300">
-                    Explore <svg class="w-3 h-3 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+                    Utforsk <svg class="w-3 h-3 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
                 </span>
             </a>
         </div>
@@ -215,8 +215,8 @@
 <section class="py-24 bg-slate-50">
     <div class="container mx-auto px-8">
         <div class="text-center mb-16">
-            <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Client Feedback</span>
-            <h2 class="text-4xl font-serif font-light text-law-blue">Trusted by Our Clients</h2>
+            <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Kundeomtaler</span>
+            <h2 class="text-4xl font-serif font-light text-law-blue">Betrodd av våre klienter</h2>
         </div>
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -227,11 +227,11 @@
                     <div class="text-law-gold flex">★★★★★</div>
                 </div>
                 <p class="text-slate-600 font-light italic mb-6 leading-relaxed flex-grow">
-                    "I was facing a very difficult family situation, and the team at Egeland handled it with such professionalism and empathy. They explained everything clearly and fought for my rights."
+                    "Jeg stod i en svært vanskelig familiesituasjon, og teamet hos Egeland håndterte det med stor profesjonalitet og empati. De forklarte alt tydelig og kjempet for mine rettigheter."
                 </p>
                 <div class="text-sm mt-auto">
                     <span class="font-bold text-law-blue block">Kari H.</span>
-                    <span class="text-slate-400 text-xs">Family Law Client</span>
+                    <span class="text-slate-400 text-xs">Klient familierett</span>
                 </div>
             </div>
 
@@ -242,11 +242,11 @@
                     <div class="text-law-gold flex">★★★★★</div>
                 </div>
                 <p class="text-slate-600 font-light italic mb-6 leading-relaxed flex-grow">
-                    "Navigating the NAV system felt impossible until I contacted Egeland Law Firm. Their expertise was evident from day one, and we got the decision overturned."
+                    "Å navigere i NAV-systemet føltes umulig frem til jeg kontaktet Advokatfirmaet Egeland. Deres ekspertise var tydelig fra dag én, og vi fikk omgjort vedtaket."
                 </p>
                 <div class="text-sm mt-auto">
                     <span class="font-bold text-law-blue block">Anders P.</span>
-                    <span class="text-slate-400 text-xs">Social Security Client</span>
+                    <span class="text-slate-400 text-xs">Klient trygderett</span>
                 </div>
             </div>
 
@@ -257,11 +257,11 @@
                     <div class="text-law-gold flex">★★★★★</div>
                 </div>
                 <p class="text-slate-600 font-light italic mb-6 leading-relaxed flex-grow">
-                    "Professional, reliable, and results-oriented. They helped me with my residence permit application and made the whole process stress-free."
+                    "Profesjonelle, pålitelige og resultatorienterte. De hjalp meg med søknad om oppholdstillatelse og gjorde hele prosessen stressfri."
                 </p>
                 <div class="text-sm mt-auto">
                     <span class="font-bold text-law-blue block">Elena S.</span>
-                    <span class="text-slate-400 text-xs">Immigration Client</span>
+                    <span class="text-slate-400 text-xs">Klient utlendingsrett</span>
                 </div>
             </div>
 
@@ -272,11 +272,11 @@
                     <div class="text-law-gold flex">★★★★★</div>
                 </div>
                 <p class="text-slate-600 font-light italic mb-6 leading-relaxed flex-grow">
-                    "When Child Welfare Services got involved, I was terrified. Egeland Law Firm stood by me every step of the way and helped bring my family back together."
+                    "Da barnevernet ble involvert, var jeg livredd. Advokatfirmaet Egeland stod ved min side hele veien og hjalp med å bringe familien min sammen igjen."
                 </p>
                 <div class="text-sm mt-auto">
                     <span class="font-bold text-law-blue block">Thomas L.</span>
-                    <span class="text-slate-400 text-xs">Child Welfare Client</span>
+                    <span class="text-slate-400 text-xs">Klient barnevern</span>
                 </div>
             </div>
 
@@ -287,11 +287,11 @@
                     <div class="text-law-gold flex">★★★★★</div>
                 </div>
                 <p class="text-slate-600 font-light italic mb-6 leading-relaxed flex-grow">
-                    "I received excellent advice regarding my divorce settlement. The attorney was sharp, prepared, and ensured I got a fair deal."
+                    "Jeg fikk utmerket rådgivning angående skifteoppgjøret mitt. Advokaten var skarp, forberedt og sørget for at jeg fikk en rettferdig avtale."
                 </p>
                 <div class="text-sm mt-auto">
                     <span class="font-bold text-law-blue block">Maria K.</span>
-                    <span class="text-slate-400 text-xs">Family Law Client</span>
+                    <span class="text-slate-400 text-xs">Klient familierett</span>
                 </div>
             </div>
 
@@ -302,11 +302,11 @@
                     <div class="text-law-gold flex">★★★★★</div>
                 </div>
                 <p class="text-slate-600 font-light italic mb-6 leading-relaxed flex-grow">
-                    "Highly recommended! They handled my appeal to UNE with great skill and we achieved a positive outcome. I am forever grateful."
+                    "Anbefales på det sterkeste! De håndterte min klage til UNE med stor dyktighet, og vi oppnådde et positivt resultat. Jeg er evig takknemlig."
                 </p>
                 <div class="text-sm mt-auto">
                     <span class="font-bold text-law-blue block">Hassan A.</span>
-                    <span class="text-slate-400 text-xs">Immigration Client</span>
+                    <span class="text-slate-400 text-xs">Klient utlendingsrett</span>
                 </div>
             </div>
         </div>
@@ -321,13 +321,13 @@
                 <img src="https://kcdefensecounsel.com/wp-content/uploads/2024/02/weve-got-his-back-shot-of-a-group-of-lawyers-stan-2023-11-27-04-56-46-utc-1-scaled.jpg" alt="Our Team" class="rounded-sm shadow-xl shadow-blue-900/10 grayscale hover:grayscale-0 transition-all duration-700">
             </div>
             <div class="md:w-1/2">
-                <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">The Team</span>
-                <h2 class="text-4xl font-serif font-light text-law-blue mb-6">Meet Our Attorneys</h2>
+                <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Teamet</span>
+                <h2 class="text-4xl font-serif font-light text-law-blue mb-6">Møt våre advokater</h2>
                 <p class="text-slate-600 mb-8 leading-loose font-light">
-                    Our strength lies in our people. Egeland Law Firm consists of dedicated attorneys with specialized experience in their respective fields. We work together to ensure you get the best possible legal representation.
+                    Vår styrke ligger i våre folk. Advokatfirmaet Egeland består av dedikerte advokater med spesialisert erfaring innen sine felt. Vi samarbeider for å sikre at du får best mulig juridisk representasjon.
                 </p>
                 <a href="about.php" class="bg-law-blue text-white px-8 py-4 rounded-sm hover:bg-law-gold transition-all duration-300 font-bold tracking-widest text-xs uppercase shadow-lg shadow-blue-900/20">
-                    See Our Team
+                    Se vårt team
                 </a>
             </div>
         </div>
@@ -344,29 +344,29 @@
             
             <!-- Left Column: Text & Info -->
             <div class="lg:w-1/2 text-white">
-                <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Get In Touch</span>
-                <h2 class="text-4xl font-serif font-light mb-6">Need Legal Assistance?</h2>
+                <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Ta kontakt</span>
+                <h2 class="text-4xl font-serif font-light mb-6">Trenger du juridisk bistand?</h2>
                 <p class="text-slate-300 mb-10 leading-loose font-light text-lg">
-                    We offer a free initial assessment of your case without any obligation. Fill out the form, and our team will get back to you within 24 hours.
+                    Vi tilbyr en gratis innledende vurdering av din sak helt uforpliktende. Fyll ut skjemaet, så kommer vårt team tilbake til deg innen 24 timer.
                 </p>
 
                 <div class="space-y-8">
-                    <div class="flex items-start">
+                    <!-- <div class="flex items-start">
                         <div class="w-12 h-12 bg-white/10 rounded-full flex items-center justify-center text-law-gold mr-6 flex-shrink-0 backdrop-blur-sm border border-white/10">
                             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path></svg>
                         </div>
                         <div>
-                            <h4 class="font-serif font-medium text-white text-lg">Call Us</h4>
+                            <h4 class="font-serif font-medium text-white text-lg">Ring oss</h4>
                             <p class="text-slate-400 font-light mt-1">+47 51 89 60 50</p>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="flex items-start">
                         <div class="w-12 h-12 bg-white/10 rounded-full flex items-center justify-center text-law-gold mr-6 flex-shrink-0 backdrop-blur-sm border border-white/10">
                             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
                         </div>
                         <div>
-                            <h4 class="font-serif font-medium text-white text-lg">Email Us</h4>
+                            <h4 class="font-serif font-medium text-white text-lg">Send oss e-post</h4>
                             <p class="text-slate-400 font-light mt-1">post@advokat-egeland.no</p>
                         </div>
                     </div>
@@ -376,7 +376,7 @@
                            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
                         </div>
                         <div>
-                            <h4 class="font-serif font-medium text-white text-lg">Visit Us</h4>
+                            <h4 class="font-serif font-medium text-white text-lg">Besøk oss</h4>
                             <p class="text-slate-400 font-light mt-1">Kongsgata 44, 4005 Stavanger, Norway</p>
                         </div>
                     </div>
@@ -388,8 +388,8 @@
                 <div class="bg-white p-10 rounded-sm shadow-2xl relative">
                      <?php if (isset($_GET['success'])): ?>
                         <div class="bg-green-50 border-l-4 border-green-500 text-green-700 p-4 mb-6 rounded-sm text-sm" role="alert">
-                            <p class="font-bold mb-1">Message Sent!</p>
-                            <p>We will get back to you shortly.</p>
+                            <p class="font-bold mb-1">Melding sendt!</p>
+                            <p>Vi kontakter deg snart.</p>
                         </div>
                     <?php endif; ?>
 
@@ -398,27 +398,27 @@
                         
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                             <div>
-                                <label for="name" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Your Name</label>
+                                <label for="name" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Ditt navn</label>
                                 <input type="text" id="name" name="name" required class="w-full bg-slate-50 border-slate-200 rounded-sm focus:border-law-blue focus:ring-0 transition-colors py-3 px-4 text-slate-700">
                             </div>
                             <div>
-                                <label for="phone" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Phone Number</label>
+                                <label for="phone" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Telefonnummer</label>
                                 <input type="tel" id="phone" name="phone" class="w-full bg-slate-50 border-slate-200 rounded-sm focus:border-law-blue focus:ring-0 transition-colors py-3 px-4 text-slate-700">
                             </div>
                         </div>
                         <div>
-                            <label for="email" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Email Address</label>
+                            <label for="email" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">E-postadresse</label>
                             <input type="email" id="email" name="email" required class="w-full bg-slate-50 border-slate-200 rounded-sm focus:border-law-blue focus:ring-0 transition-colors py-3 px-4 text-slate-700">
                         </div>
                         <div>
-                            <label for="subject" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Subject</label>
+                            <label for="subject" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Emne</label>
                             <div class="relative">
                                 <select id="subject" name="subject" class="w-full bg-slate-50 border-slate-200 rounded-sm focus:border-law-blue focus:ring-0 transition-colors py-3 px-4 text-slate-700 appearance-none">
-                                    <option value="General Inquiry">General Inquiry</option>
-                                    <option value="Family Law">Family Law</option>
-                                    <option value="Social Security">Social Security / NAV</option>
-                                    <option value="Child Welfare">Child Welfare</option>
-                                    <option value="Immigration">Immigration</option>
+                                    <option value="General Inquiry">Generell henvendelse</option>
+                                    <option value="Family Law">Familierett</option>
+                                    <option value="Social Security">Trygderett / NAV</option>
+                                    <option value="Child Welfare">Barnevern</option>
+                                    <option value="Immigration">Utlendingsrett</option>
                                 </select>
                                 <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-4 text-slate-500">
                                     <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
@@ -426,11 +426,11 @@
                             </div>
                         </div>
                         <div>
-                            <label for="message" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Message</label>
+                            <label for="message" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Melding</label>
                             <textarea id="message" name="message" rows="3" required class="w-full bg-slate-50 border-slate-200 rounded-sm focus:border-law-blue focus:ring-0 transition-colors py-3 px-4 text-slate-700"></textarea>
                         </div>
                         <button type="submit" class="w-full bg-law-gold text-white font-bold tracking-widest uppercase text-xs py-4 px-6 rounded-sm hover:bg-law-blue transition-colors duration-300 shadow-lg shadow-yellow-900/10">
-                            Send Message
+                            Send melding
                         </button>
                     </form>
                 </div>

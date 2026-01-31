@@ -7,9 +7,9 @@
     </div>
     <div class="absolute inset-0 bg-gradient-to-t from-law-blue via-law-blue/90 to-transparent"></div>
     <div class="container mx-auto px-8 relative z-10 text-center">
-        <h1 class="text-4xl md:text-5xl font-serif font-light mb-4">Practice Areas</h1>
+        <h1 class="text-4xl md:text-5xl font-serif font-light mb-4">Fagområder</h1>
         <div class="flex justify-center items-center text-xs font-semibold tracking-widest text-slate-400 uppercase">
-            <a href="index.php" class="hover:text-white transition-colors">Home</a> <span class="mx-4 text-law-gold">/</span> <span class="text-white">Services</span>
+            <a href="index.php" class="hover:text-white transition-colors">Hjem</a> <span class="mx-4 text-law-gold">/</span> <span class="text-white">Tjenester</span>
         </div>
     </div>
 </div>
@@ -21,19 +21,19 @@
         <div class="lg:col-span-1 hidden lg:block">
             <div class="sticky top-32 space-y-2">
                 <a href="#family" class="group flex items-center justify-between px-6 py-4 bg-white border border-slate-100 rounded-sm shadow-sm hover:shadow-md transition-all duration-300">
-                    <span class="text-sm font-semibold text-law-blue tracking-wide">Family Law</span>
+                    <span class="text-sm font-semibold text-law-blue tracking-wide">Familierett</span>
                     <span class="w-1.5 h-1.5 rounded-full bg-law-gold opacity-0 group-hover:opacity-100 transition-opacity"></span>
                 </a>
                 <a href="#social" class="group flex items-center justify-between px-6 py-4 bg-slate-50 hover:bg-white border border-transparent hover:border-slate-100 rounded-sm transition-all duration-300">
-                    <span class="text-sm font-medium text-slate-500 group-hover:text-law-blue tracking-wide">Social Security</span>
+                    <span class="text-sm font-medium text-slate-500 group-hover:text-law-blue tracking-wide">Trygderett</span>
                      <span class="w-1.5 h-1.5 rounded-full bg-law-gold opacity-0 group-hover:opacity-100 transition-opacity"></span>
                 </a>
                 <a href="#child" class="group flex items-center justify-between px-6 py-4 bg-slate-50 hover:bg-white border border-transparent hover:border-slate-100 rounded-sm transition-all duration-300">
-                    <span class="text-sm font-medium text-slate-500 group-hover:text-law-blue tracking-wide">Child Welfare</span>
+                    <span class="text-sm font-medium text-slate-500 group-hover:text-law-blue tracking-wide">Barnevern</span>
                      <span class="w-1.5 h-1.5 rounded-full bg-law-gold opacity-0 group-hover:opacity-100 transition-opacity"></span>
                 </a>
                 <a href="#immigration" class="group flex items-center justify-between px-6 py-4 bg-slate-50 hover:bg-white border border-transparent hover:border-slate-100 rounded-sm transition-all duration-300">
-                    <span class="text-sm font-medium text-slate-500 group-hover:text-law-blue tracking-wide">Immigration</span>
+                    <span class="text-sm font-medium text-slate-500 group-hover:text-law-blue tracking-wide">Utlendingsrett</span>
                      <span class="w-1.5 h-1.5 rounded-full bg-law-gold opacity-0 group-hover:opacity-100 transition-opacity"></span>
                 </a>
             </div>
@@ -50,21 +50,21 @@
                             <div class="w-12 h-12 bg-white shadow-soft rounded-full flex items-center justify-center text-law-gold mr-4 border border-slate-50">
                                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"></path></svg>
                             </div>
-                            <h2 class="text-3xl font-serif font-light text-law-blue">Family Law</h2>
+                            <h2 class="text-3xl font-serif font-light text-law-blue">Familierett</h2>
                         </div>
                         <div class="prose prose-slate max-w-none text-slate-600 font-light leading-loose">
                             <p class="mb-6">
-                                Family law conflicts are often the most personal and emotionally draining legal challenges one can face. Whether you are going through a divorce, fighting for custody of your children, or dealing with complex inheritance issues, you need an attorney who is both compassionate and legally sharp.
+                                Familierettslige konflikter er ofte de mest personlige og følelsesmessig krevende juridiske utfordringene man kan stå overfor. Enten du går gjennom en skilsmisse, kjemper for foreldrerett eller håndterer komplekse arveoppgjør, trenger du en advokat som er både medfølende og juridisk skarp.
                             </p>
                             <p class="mb-6">
-                                We provide objective, professional guidance to help you reach fair resolutions, prioritizing the well-being of children involved. We strive for amicable solutions but are fully prepared to litigate when necessary to protect your interests.
+                                Vi gir objektiv, profesjonell veiledning for å hjelpe deg med å oppnå rettferdige løsninger, og prioriterer barnas beste. Vi streber etter minnelige løsninger, men er fullt forberedt på å prosedere når det er nødvendig for å beskytte dine interesser.
                             </p>
                             <ul class="space-y-3 mt-8">
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Child custody and visitation rights disputes</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Divorce and separation financial settlements</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Division of assets, property, and debts</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Inheritance law, wills, and estate planning</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Drafting valid prenuptial agreements</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Barnefordeling og samværsrett</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Skilsmisse og samlivsbrudd</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Deling av eiendeler, eiendom og gjeld</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Arverett, testamenter og fremtidsfullmakter</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Utforming av gyldige ektepakter</li>
                             </ul>
                         </div>
                     </div>
@@ -93,21 +93,21 @@
                             <div class="w-12 h-12 bg-white shadow-soft rounded-full flex items-center justify-center text-law-gold mr-4 border border-slate-50">
                                  <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
                             </div>
-                            <h2 class="text-3xl font-serif font-light text-law-blue">Social Security Law & NAV</h2>
+                            <h2 class="text-3xl font-serif font-light text-law-blue">Trygderett & NAV</h2>
                         </div>
                         <div class="prose prose-slate max-w-none text-slate-600 font-light leading-loose">
                             <p class="mb-6">
-                                The Norwegian social security system is complex, and navigating NAV regulations can be overwhelming. Many individuals unfortunately receive incorrect decisions regarding benefits they are entitled to by law.
+                                Det norske trygdesystemet er komplekst, og å navigere i NAVs regelverk kan være overveldende. Mange mottar dessverre uriktige vedtak om ytelser de har lovfestet rett til.
                             </p>
                             <p class="mb-6">
-                                We specialize in assisting clients with complaints and appeals against NAV decisions. Our attorneys have deep knowledge of the National Insurance Act and can help you gather the necessary medical and factual documentation to strengthen your case.
+                                Vi spesialiserer oss på å bistå klienter med klager og anker mot NAV-vedtak. Våre advokater har dyp kunnskap om folketrygdloven og kan hjelpe deg med å innhente nødvendig medisinsk og faktisk dokumentasjon for å styrke saken din.
                             </p>
                              <ul class="space-y-3 mt-8">
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Appeals against NAV rejections and benefit reductions</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Disability benefits (Uføretrygd) and Work Assessment Allowance (AAP)</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Sickness benefits, unemployment benefits, and parental leave</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Evaluations for Free Legal Aid (Fri rettshjelp)</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Representation in the National Insurance Court (Trygderetten)</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Klager på avslag og reduksjon av ytelser fra NAV</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Uføretrygd og arbeidsavklaringspenger (AAP)</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Sykepenger, dagpenger og foreldrepenger</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Vurdering av fri rettshjelp</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Representasjon i Trygderetten</li>
                             </ul>
                         </div>
                     </div>
@@ -124,21 +124,21 @@
                             <div class="w-12 h-12 bg-white shadow-soft rounded-full flex items-center justify-center text-law-gold mr-4 border border-slate-50">
                                  <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M14.828 14.828a4 4 0 01-5.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                             </div>
-                            <h2 class="text-3xl font-serif font-light text-law-blue">Child Welfare</h2>
+                            <h2 class="text-3xl font-serif font-light text-law-blue">Barnevern</h2>
                         </div>
                         <div class="prose prose-slate max-w-none text-slate-600 font-light leading-loose">
                             <p class="mb-6">
-                                Cases involving Child Welfare Services (Barnevernet) are among the most intrusive and serious legal matters a family can face. The stakes are incredibly high, and early legal intervention is often critical.
+                                Saker som involverer barnevernet er blant de mest inngripende og alvorlige juridiske sakene en familie kan stå overfor. Konsekvensene er store, og tidlig juridisk bistand er ofte avgjørende.
                             </p>
                             <p class="mb-6">
-                                We provide robust defense and support for parents and children in these proceedings. We ensure that the Child Welfare Service adheres to strict legal requirements and that your rights to family life are respected and protected.
+                                Vi tilbyr robust forsvar og støtte for foreldre og barn i disse prosessene. Vi sikrer at barnevernet overholder strenge lovkrav og at din rett til familieliv respekteres og beskyttes.
                             </p>
                             <ul class="space-y-3 mt-8">
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Assistance during initial investigations and meetings</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Appeals against emergency placement orders</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Representation in care order proceedings</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Negotiating visitation rights and reunification goals</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Hearings in the Child Welfare and Health Board</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Bistand under innledende undersøkelser og møter</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Klager på akuttvedtak</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Representasjon i saker om omsorgsovertakelse</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Forhandling om samværsrett og tilbakeføring</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Høringer i Barneverns- og helsenemnda</li>
                             </ul>
                         </div>
                     </div>
@@ -167,21 +167,21 @@
                             <div class="w-12 h-12 bg-white shadow-soft rounded-full flex items-center justify-center text-law-gold mr-4 border border-slate-50">
                                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                             </div>
-                            <h2 class="text-3xl font-serif font-light text-law-blue">Immigration Law</h2>
+                            <h2 class="text-3xl font-serif font-light text-law-blue">Utlendingsrett</h2>
                         </div>
                         <div class="prose prose-slate max-w-none text-slate-600 font-light leading-loose">
                             <p class="mb-6">
-                                Moving to a new country involves complex regulations and strict documentation requirements. We help individuals and families with all aspects of Norwegian immigration law, ensuring your applications are correct and complete to avoid unnecessary delays or rejections.
+                                Å flytte til et nytt land innebærer komplekse regler og strenge dokumentasjonskrav. Vi hjelper enkeltpersoner og familier med alle aspekter av norsk utlendingsrett, og sikrer at søknadene dine er korrekte og fullstendige for å unngå unødvendige forsinkelser eller avslag.
                             </p>
                             <p class="mb-6">
-                                From initial applications to complex appeals against UDI (Directorate of Immigration) and UNE (Immigration Appeals Board), we stand by your side. We have extensive experience with family reunification, work permits, and asylum cases.
+                                Fra første søknad til komplekse klager mot UDI og UNE, står vi ved din side. Vi har omfattende erfaring med familiegjenforening, arbeidstillatelser og asylsaker.
                             </p>
                             <ul class="space-y-3 mt-8">
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Family reunification applications for spouses and children</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Skilled worker permits and study permits</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Permanent residence and Norwegian citizenship</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Asylum applications and protection appeals</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Defense against expulsion and revocation of permits</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Søknader om familiegjenforening for ektefeller og barn</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Arbeidstillatelser for faglærte og studietillatelser</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Permanent oppholdstillatelse og norsk statsborgerskap</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Asylsøknader og klager på avslag</li>
+                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Forsvar mot utvisning og tilbakekall av tillatelser</li>
                             </ul>
                         </div>
                     </div>
@@ -196,8 +196,8 @@
 <section class="py-24 bg-slate-50 border-t border-slate-200">
     <div class="container mx-auto px-8 max-w-4xl">
         <div class="text-center mb-16">
-            <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Common Questions</span>
-            <h2 class="text-4xl font-serif font-light text-law-blue">Frequently Asked Questions</h2>
+            <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Vanlige spørsmål</span>
+            <h2 class="text-4xl font-serif font-light text-law-blue">Ofte stilte spørsmål</h2>
         </div>
 
         <div class="space-y-6">
@@ -205,13 +205,13 @@
             <div class="bg-white rounded-sm shadow-sm border border-slate-100 overflow-hidden">
                 <details class="group">
                     <summary class="flex justify-between items-center font-medium cursor-pointer list-none p-6 text-law-blue hover:text-law-gold transition-colors">
-                        <span>Do you offer free legal advice?</span>
+                        <span>Tilbyr dere gratis rettshjelp?</span>
                         <span class="transition group-open:rotate-180">
                             <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
                         </span>
                     </summary>
                     <div class="text-slate-500 font-light leading-relaxed p-6 pt-0 text-sm">
-                        Yes, we offer a free initial assessment of your case. This helps us understand your situation and determine if and how we can assist you. There is no obligation to proceed after this conversation.
+                        Ja, vi tilbyr en gratis innledende vurdering av saken din. Dette hjelper oss å forstå situasjonen din og avgjøre om og hvordan vi kan bistå deg. Det er ingen forpliktelse til å gå videre etter denne samtalen.
                     </div>
                 </details>
             </div>
@@ -220,13 +220,13 @@
             <div class="bg-white rounded-sm shadow-sm border border-slate-100 overflow-hidden">
                 <details class="group">
                     <summary class="flex justify-between items-center font-medium cursor-pointer list-none p-6 text-law-blue hover:text-law-gold transition-colors">
-                        <span>How much will my case cost?</span>
+                        <span>Hva vil saken min koste?</span>
                         <span class="transition group-open:rotate-180">
                             <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
                         </span>
                     </summary>
                     <div class="text-slate-500 font-light leading-relaxed p-6 pt-0 text-sm">
-                        Legal costs vary depending on the complexity and type of the case. We provide a clear estimate of costs upfront. In some cases, such as certain NAV appeals or child welfare cases, you may be eligible for free legal aid (fri rettshjelp) from the government.
+                        Advokatutgifter varierer avhengig av sakens kompleksitet og type. Vi gir et klart kostnadsoverslag på forhånd. I noen saker, som visse NAV-klager eller barnevernssaker, kan du ha krav på fri rettshjelp fra staten.
                     </div>
                 </details>
             </div>
@@ -235,13 +235,13 @@
             <div class="bg-white rounded-sm shadow-sm border border-slate-100 overflow-hidden">
                 <details class="group">
                     <summary class="flex justify-between items-center font-medium cursor-pointer list-none p-6 text-law-blue hover:text-law-gold transition-colors">
-                        <span>How long does a typical case take?</span>
+                        <span>Hvor lang tid tar en typisk sak?</span>
                         <span class="transition group-open:rotate-180">
                             <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
                         </span>
                     </summary>
                     <div class="text-slate-500 font-light leading-relaxed p-6 pt-0 text-sm">
-                        The timeline depends heavily on the nature of the case and the opposing parties (e.g., NAV, UDI, courts). Some matters can be resolved in weeks, while court proceedings may take several months. We strive to resolve cases as efficiently as possible.
+                        Tidslinjen avhenger i stor grad av sakens art og motparten (f.eks. NAV, UDI, domstolene). Noen saker kan løses på uker, mens rettsprosesser kan ta flere måneder. Vi streber etter å løse saker så effektivt som mulig.
                     </div>
                 </details>
             </div>
@@ -249,13 +249,13 @@
             <div class="bg-white rounded-sm shadow-sm border border-slate-100 overflow-hidden">
                 <details class="group">
                     <summary class="flex justify-between items-center font-medium cursor-pointer list-none p-6 text-law-blue hover:text-law-gold transition-colors">
-                        <span>Can you represent me if I live outside Stavanger?</span>
+                        <span>Kan dere representere meg hvis jeg bor utenfor Stavanger?</span>
                         <span class="transition group-open:rotate-180">
                             <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
                         </span>
                     </summary>
                     <div class="text-slate-500 font-light leading-relaxed p-6 pt-0 text-sm">
-                        Absolutely. We represent clients all over Norway and internationally, especially in immigration and NAV cases. Consultations can be conducted via phone or video call.
+                        Absolutt. Vi representerer klienter over hele Norge og internasjonalt, spesielt i utlendings- og NAV-saker. Konsultasjoner kan gjennomføres via telefon eller videosamtale.
                     </div>
                 </details>
             </div>
