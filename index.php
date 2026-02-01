@@ -235,6 +235,21 @@
                 </div>
             </div>
 
+            <!-- Testimonial New 1 -->
+            <div class="bg-white p-8 shadow-soft rounded-sm border-t-4 border-law-gold relative h-full flex flex-col">
+                <svg class="w-10 h-10 text-slate-100 absolute top-4 right-4" fill="currentColor" viewBox="0 0 24 24"><path d="M14.017 21L14.017 18C14.017 16.054 15.331 15.189 16.494 14.249C17.294 13.603 17.653 12.871 17.653 11.517C17.653 10.468 16.92 9.697 15.86 9.697C14.735 9.697 13.754 10.74 13.067 11.527L11.522 10.053C12.433 8.783 14.156 7 16.29 7C18.847 7 20.672 8.747 20.672 11.751C20.672 15.111 18.271 17.33 16.494 18.733C15.694 19.364 15.225 19.824 15.225 21L14.017 21ZM6.017 21L6.017 18C6.017 16.054 7.331 15.189 8.494 14.249C9.294 13.603 9.653 12.871 9.653 11.517C9.653 10.468 8.92 9.697 7.86 9.697C6.735 9.697 5.754 10.74 5.067 11.527L3.522 10.053C4.433 8.783 6.156 7 8.29 7C10.847 7 12.672 8.747 12.672 11.751C12.672 15.111 10.271 17.33 8.494 18.733C7.694 19.364 7.225 19.824 7.225 21L6.017 21Z"/></svg>
+                <div class="flex items-center mb-6">
+                    <div class="text-law-gold flex">★★★★★</div>
+                </div>
+                <p class="text-slate-600 font-light italic mb-6 leading-relaxed flex-grow">
+                    "Advokat Patrick hjalp meg med å få fortgang i arbeidvisumet mitt. Utrolig service! Jeg kunne ikke ha gjort det uten hans ekspertise."
+                </p>
+                <div class="text-sm mt-auto">
+                    <span class="font-bold text-law-blue block">Erik J.</span>
+                    <span class="text-slate-400 text-xs">Klient arbeidsvisum</span>
+                </div>
+            </div>
+
             <!-- Testimonial 2 -->
             <div class="bg-white p-8 shadow-soft rounded-sm border-t-4 border-law-gold relative h-full flex flex-col">
                 <svg class="w-10 h-10 text-slate-100 absolute top-4 right-4" fill="currentColor" viewBox="0 0 24 24"><path d="M14.017 21L14.017 18C14.017 16.054 15.331 15.189 16.494 14.249C17.294 13.603 17.653 12.871 17.653 11.517C17.653 10.468 16.92 9.697 15.86 9.697C14.735 9.697 13.754 10.74 13.067 11.527L11.522 10.053C12.433 8.783 14.156 7 16.29 7C18.847 7 20.672 8.747 20.672 11.751C20.672 15.111 18.271 17.33 16.494 18.733C15.694 19.364 15.225 19.824 15.225 21L14.017 21ZM6.017 21L6.017 18C6.017 16.054 7.331 15.189 8.494 14.249C9.294 13.603 9.653 12.871 9.653 11.517C9.653 10.468 8.92 9.697 7.86 9.697C6.735 9.697 5.754 10.74 5.067 11.527L3.522 10.053C4.433 8.783 6.156 7 8.29 7C10.847 7 12.672 8.747 12.672 11.751C12.672 15.111 10.271 17.33 8.494 18.733C7.694 19.364 7.225 19.824 7.225 21L6.017 21Z"/></svg>
@@ -261,6 +276,21 @@
                 </p>
                 <div class="text-sm mt-auto">
                     <span class="font-bold text-law-blue block">Elena S.</span>
+                    <span class="text-slate-400 text-xs">Klient utlendingsrett</span>
+                </div>
+            </div>
+
+            <!-- Testimonial New 2 -->
+            <div class="bg-white p-8 shadow-soft rounded-sm border-t-4 border-law-gold relative h-full flex flex-col">
+                <svg class="w-10 h-10 text-slate-100 absolute top-4 right-4" fill="currentColor" viewBox="0 0 24 24"><path d="M14.017 21L14.017 18C14.017 16.054 15.331 15.189 16.494 14.249C17.294 13.603 17.653 12.871 17.653 11.517C17.653 10.468 16.92 9.697 15.86 9.697C14.735 9.697 13.754 10.74 13.067 11.527L11.522 10.053C12.433 8.783 14.156 7 16.29 7C18.847 7 20.672 8.747 20.672 11.751C20.672 15.111 18.271 17.33 16.494 18.733C15.694 19.364 15.225 19.824 15.225 21L14.017 21ZM6.017 21L6.017 18C6.017 16.054 7.331 15.189 8.494 14.249C9.294 13.603 9.653 12.871 9.653 11.517C9.653 10.468 8.92 9.697 7.86 9.697C6.735 9.697 5.754 10.74 5.067 11.527L3.522 10.053C4.433 8.783 6.156 7 8.29 7C10.847 7 12.672 8.747 12.672 11.751C12.672 15.111 10.271 17.33 8.494 18.733C7.694 19.364 7.225 19.824 7.225 21L6.017 21Z"/></svg>
+                <div class="flex items-center mb-6">
+                    <div class="text-law-gold flex">★★★★★</div>
+                </div>
+                <p class="text-slate-600 font-light italic mb-6 leading-relaxed flex-grow">
+                    "Jeg satt fast i visumprosessen i flere måneder. Patrick grep inn og fikk det godkjent på uker. Effektivt og profesjonelt."
+                </p>
+                <div class="text-sm mt-auto">
+                    <span class="font-bold text-law-blue block">Sofia M.</span>
                     <span class="text-slate-400 text-xs">Klient utlendingsrett</span>
                 </div>
             </div>
@@ -292,6 +322,21 @@
                 <div class="text-sm mt-auto">
                     <span class="font-bold text-law-blue block">Maria K.</span>
                     <span class="text-slate-400 text-xs">Klient familierett</span>
+                </div>
+            </div>
+
+            <!-- Testimonial New 3 -->
+            <div class="bg-white p-8 shadow-soft rounded-sm border-t-4 border-law-gold relative h-full flex flex-col">
+                <svg class="w-10 h-10 text-slate-100 absolute top-4 right-4" fill="currentColor" viewBox="0 0 24 24"><path d="M14.017 21L14.017 18C14.017 16.054 15.331 15.189 16.494 14.249C17.294 13.603 17.653 12.871 17.653 11.517C17.653 10.468 16.92 9.697 15.86 9.697C14.735 9.697 13.754 10.74 13.067 11.527L11.522 10.053C12.433 8.783 14.156 7 16.29 7C18.847 7 20.672 8.747 20.672 11.751C20.672 15.111 18.271 17.33 16.494 18.733C15.694 19.364 15.225 19.824 15.225 21L14.017 21ZM6.017 21L6.017 18C6.017 16.054 7.331 15.189 8.494 14.249C9.294 13.603 9.653 12.871 9.653 11.517C9.653 10.468 8.92 9.697 7.86 9.697C6.735 9.697 5.754 10.74 5.067 11.527L3.522 10.053C4.433 8.783 6.156 7 8.29 7C10.847 7 12.672 8.747 12.672 11.751C12.672 15.111 10.271 17.33 8.494 18.733C7.694 19.364 7.225 19.824 7.225 21L6.017 21Z"/></svg>
+                <div class="flex items-center mb-6">
+                    <div class="text-law-gold flex">★★★★★</div>
+                </div>
+                <p class="text-slate-600 font-light italic mb-6 leading-relaxed flex-grow">
+                    "Raskt, effektivt og profesjonelt. Patrick gjorde visumprosessen for familiegjenforening så enkel. Anbefales på det sterkeste!"
+                </p>
+                <div class="text-sm mt-auto">
+                    <span class="font-bold text-law-blue block">Lars K.</span>
+                    <span class="text-slate-400 text-xs">Klient familiegjenforening</span>
                 </div>
             </div>
 
@@ -377,7 +422,7 @@
                         </div>
                         <div>
                             <h4 class="font-serif font-medium text-white text-lg">Besøk oss</h4>
-                            <p class="text-slate-400 font-light mt-1">Kongsgata 44, 4005 Stavanger, Norway</p>
+                            <p class="text-slate-400 font-light mt-1">Hegdehaugsveien 34, 0352 Oslo, Norway</p>
                         </div>
                     </div>
                 </div>

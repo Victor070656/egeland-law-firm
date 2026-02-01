@@ -23,18 +23,25 @@
             <div class="lg:w-2/3">
 
                 <!-- Our History -->
+
                 <div class="mb-20">
+
                     <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Vår
                         historie</span>
+
                     <h2 class="text-4xl font-serif font-light text-law-blue mb-8 leading-tight">En arv av juridisk
                         fremragende kvalitet</h2>
+
                     <div class="prose prose-lg text-slate-600 font-light leading-loose">
+
                         <p class="mb-6">
-                            Grunnlagt i 2005 av Patrick Leif Hansen, begynte firmaet vårt med et enkelt oppdrag: å tilby
+
+                            Grunnlagt i 2005 av Marco Patrick Johan, begynte firmaet vårt med et enkelt oppdrag: å tilby
                             juridisk representasjon av høy kvalitet som er tilgjengelig, empatisk og nådeløst effektiv.
-                            Det som startet som et lite firma i Stavanger, har vokst til å bli en respektert institusjon
+                            Det som startet som et lite firma i Oslo, har vokst til å bli en respektert institusjon
                             kjent for å håndtere noen av regionens mest komplekse saker innen familie- og
                             forvaltningsrett.
+
                         </p>
                         <p class="mb-6">
                             I løpet av de siste to tiårene har vi representert hundrevis av klienter mot mektige
@@ -216,7 +223,7 @@
                             class="w-full h-full object-cover object-top grayscale group-hover:grayscale-0 transition-all duration-700">
                     </div>
                     <div class="p-8">
-                        <h3 class="text-xl font-serif font-medium text-law-blue mb-1">Patrick Leif Hansen</h3>
+                        <h3 class="text-xl font-serif font-medium text-law-blue mb-1">Marco Patrick Johan</h3>
                         <p class="text-law-gold text-xs font-bold tracking-widest uppercase mb-4">Grunnlegger & Partner
                         </p>
                         <p class="text-slate-500 font-light text-sm leading-relaxed mb-6">
@@ -231,9 +238,18 @@
             <div class="w-full md:w-5/12 lg:w-1/3 pt-4">
                 <h3 class="text-2xl font-serif font-medium text-law-blue mb-8">Andre advokater</h3>
                 <div class="space-y-8">
-                    <!-- Sarah -->
+                    <!-- Patrick Leif Hansen -->
                     <div class="border-b border-slate-100 pb-6 last:border-0">
                         <h4 class="text-lg font-serif font-medium text-law-blue mb-1">Sarah Johansen</h4>
+                        <p class="text-law-gold text-xs font-bold tracking-widest uppercase mb-2">Advokat</p>
+                        <p class="text-slate-500 font-light text-sm leading-relaxed">
+                            Erfaren advokat med fokus på strafferett og sivil prosedyre.
+                        </p>
+                    </div>
+
+                    <!-- Sarah -->
+                    <div class="border-b border-slate-100 pb-6 last:border-0">
+                        <h4 class="text-lg font-serif font-medium text-law-blue mb-1">Patrick Leif Hansen</h4>
                         <p class="text-law-gold text-xs font-bold tracking-widest uppercase mb-2">Senioradvokat</p>
                         <p class="text-slate-500 font-light text-sm leading-relaxed">
                             Ekspert på utlendingsrett og asylsaker, dedikert til å hjelpe familier med gjenforening og
@@ -241,15 +257,7 @@
                         </p>
                     </div>
 
-                    <!-- Magnus -->
-                    <div class="border-b border-slate-100 pb-6 last:border-0">
-                        <h4 class="text-lg font-serif font-medium text-law-blue mb-1">Marco Patrick Johan</h4>
-                        <p class="text-law-gold text-xs font-bold tracking-widest uppercase mb-2">Advokatfullmektig</p>
-                        <p class="text-slate-500 font-light text-sm leading-relaxed">
-                            Fokuserer på trygderett (NAV) og klagesaker, og sikrer at klienter mottar ytelsene de har
-                            krav på.
-                        </p>
-                    </div>
+
                 </div>
             </div>
         </div>

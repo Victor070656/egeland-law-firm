@@ -35,7 +35,7 @@
                         </div>
                         <div>
                             <h4 class="font-serif font-medium text-law-blue text-lg">Besøk oss</h4>
-                            <p class="text-slate-500 font-light mt-1">Kongsgata 44, 4005 Stavanger, Norway</p>
+                            <p class="text-slate-500 font-light mt-1">Hegdehaugsveien 34, 0352 Oslo, Norway</p>
                         </div>
                     </div>
 
@@ -71,12 +71,12 @@
                          <hr class="border-slate-100">
                          <div>
                              <h5 class="text-xs font-bold text-law-gold uppercase tracking-widest mb-1">Kollektivtransport</h5>
-                             <p class="text-slate-500 font-light text-sm">Vi holder til 5 minutters gange fra Stavanger togstasjon og bussterminalen.</p>
+                             <p class="text-slate-500 font-light text-sm">Vi holder til i gangavstand fra Nationaltheatret stasjon og Majorstuen.</p>
                          </div>
                          <hr class="border-slate-100">
                          <div>
                              <h5 class="text-xs font-bold text-law-gold uppercase tracking-widest mb-1">Parkering</h5>
-                             <p class="text-slate-500 font-light text-sm">Nærmeste parkering er Jorenholmen P-hus (3 min gange) eller Kyrre P-hus.</p>
+                             <p class="text-slate-500 font-light text-sm">Parkering tilgjengelig i Bogstadveien og nærliggende parkeringshus.</p>
                          </div>
                      </div>
                 </div>
@@ -139,7 +139,7 @@
 
 <!-- Map Section -->
 <section class="h-[500px] w-full relative grayscale filter opacity-90 hover:grayscale-0 transition-all duration-700">
-    <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Kongsgata+44,+4005+Stavanger,+Norway&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe>
+    <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Hegdehaugsveien+34,+0352+Oslo,+Norway&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe>
 </section>
 
 <?php include 'components/footer.php'; ?>
