@@ -30,6 +30,7 @@
                     <li><a href="services.php#social" class="hover:text-white transition-colors flex items-center"><span class="w-1 h-1 bg-slate-600 rounded-full mr-2"></span>Trygderett & NAV</a></li>
                     <li><a href="services.php#child" class="hover:text-white transition-colors flex items-center"><span class="w-1 h-1 bg-slate-600 rounded-full mr-2"></span>Barnevern</a></li>
                     <li><a href="services.php#immigration" class="hover:text-white transition-colors flex items-center"><span class="w-1 h-1 bg-slate-600 rounded-full mr-2"></span>Utlendingsrett</a></li>
+                    <li><a href="case-archive.php" class="hover:text-white transition-colors flex items-center"><span class="w-1 h-1 bg-slate-600 rounded-full mr-2"></span>Saksarkiv</a></li>
                 </ul>
             </div>
 

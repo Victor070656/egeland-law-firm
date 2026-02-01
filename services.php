@@ -176,13 +176,32 @@
                             <p class="mb-6">
                                 Fra første søknad til komplekse klager mot UDI og UNE, står vi ved din side. Vi har omfattende erfaring med familiegjenforening, arbeidstillatelser og asylsaker.
                             </p>
-                            <ul class="space-y-3 mt-8">
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Søknader om familiegjenforening for ektefeller og barn</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Arbeidstillatelser for faglærte og studietillatelser</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Permanent oppholdstillatelse og norsk statsborgerskap</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Asylsøknader og klager på avslag</li>
-                                <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Forsvar mot utvisning og tilbakekall av tillatelser</li>
-                            </ul>
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
+                                <div class="bg-slate-50 p-6 rounded-sm border border-slate-100">
+                                    <h4 class="font-serif font-medium text-law-blue mb-2">Familiegjenforening</h4>
+                                    <p class="text-sm text-slate-600 font-light">Søknader for ektefeller og barn. Vi sikrer at alle krav til inntekt og bolig er dokumentert korrekt.</p>
+                                </div>
+                                <div class="bg-slate-50 p-6 rounded-sm border border-slate-100">
+                                    <h4 class="font-serif font-medium text-law-blue mb-2">Arbeid- og Studietillatelser</h4>
+                                    <p class="text-sm text-slate-600 font-light">Bistand til faglærte og studenter med å sikre nødvendige tillatelser for arbeid og utdanning i Norge.</p>
+                                </div>
+                                <div class="bg-law-gold/10 p-6 rounded-sm border border-law-gold/20">
+                                    <h4 class="font-serif font-medium text-law-blue mb-2">High tier Visa fast tracking for VIPs</h4>
+                                    <p class="text-sm text-slate-600 font-light">Eksklusiv hurtigbehandling for nøkkelpersonell og VIP-er som krever umiddelbar innreise og arbeidsrett.</p>
+                                </div>
+                                <div class="bg-slate-50 p-6 rounded-sm border border-slate-100">
+                                    <h4 class="font-serif font-medium text-law-blue mb-2">Permanent Opphold & Statsborgerskap</h4>
+                                    <p class="text-sm text-slate-600 font-light">Veiledning gjennom kravene for varig opphold og prosessen for å bli norsk statsborger.</p>
+                                </div>
+                                <div class="bg-slate-50 p-6 rounded-sm border border-slate-100">
+                                    <h4 class="font-serif font-medium text-law-blue mb-2">Asyl og Beskyttelse</h4>
+                                    <p class="text-sm text-slate-600 font-light">Juridisk bistand i asylsøknader og klager på avslag for de som trenger beskyttelse.</p>
+                                </div>
+                                <div class="bg-slate-50 p-6 rounded-sm border border-slate-100">
+                                    <h4 class="font-serif font-medium text-law-blue mb-2">Forsvar mot Utvisning</h4>
+                                    <p class="text-sm text-slate-600 font-light">Hjelp i saker om tilbakekall av tillatelser og utvisning, for å beskytte din rett til å bli.</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

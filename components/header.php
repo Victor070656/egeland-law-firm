@@ -77,6 +77,8 @@
                     class="text-xs font-semibold uppercase tracking-widest text-slate-500 hover:text-law-blue transition-colors duration-300">Hjem</a>
                 <a href="about.php"
                     class="text-xs font-semibold uppercase tracking-widest text-slate-500 hover:text-law-blue transition-colors duration-300">Om oss</a>
+                <a href="case-archive.php"
+                    class="text-xs font-semibold uppercase tracking-widest text-slate-500 hover:text-law-blue transition-colors duration-300">Saksarkiv</a>
                 <div class="relative group h-full flex items-center">
                     <button
                         class="text-xs font-semibold uppercase tracking-widest text-slate-500 hover:text-law-blue transition-colors duration-300 flex items-center py-4">
@@ -121,6 +123,8 @@
             <a href="about.php"
                 class="block px-8 py-4 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-law-blue border-b border-slate-50">Om
                 oss</a>
+            <a href="case-archive.php"
+                class="block px-8 py-4 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-law-blue border-b border-slate-50">Saksarkiv</a>
             <a href="services.php"
                 class="block px-8 py-4 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-law-blue border-b border-slate-50">Tjenester</a>
             <a href="contact.php" class="block px-8 py-4 text-sm font-bold text-law-blue bg-slate-50">Kontakt oss</a>
