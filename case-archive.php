@@ -39,7 +39,7 @@
                         <p class="text-sm text-law-blue font-medium italic">"Advokat Patrick sørget for en effektiv prosess som reduserte ventetiden betraktelig."</p>
                     </div>
                     <div class="flex items-center text-sm font-bold text-law-blue uppercase tracking-wider">
-                        <span class="w-2 h-2 bg-green-500 rounded-full mr-2"></span> Sak løst: 3 uker
+                        <span class="w-2 h-2 bg-green-500 rounded-full mr-2"></span> Sak løst: 2 uker
                     </div>
                 </div>
             </div>
