@@ -30,23 +30,22 @@
                         historie</span>
 
                     <h2 class="text-4xl font-serif font-light text-law-blue mb-8 leading-tight">En arv av juridisk
-                        fremragende kvalitet</h2>
+                        kvalitet og menneskelig nærhet</h2>
 
                     <div class="prose prose-lg text-slate-600 font-light leading-loose">
 
                         <p class="mb-6">
 
-                            Grunnlagt i 2005 av Marco Patrick Johan, begynte firmaet vårt med et enkelt oppdrag: å tilby
-                            juridisk representasjon av høy kvalitet som er tilgjengelig, empatisk og nådeløst effektiv.
-                            Det som startet som et lite firma i Oslo, har vokst til å bli en respektert institusjon
-                            kjent for å håndtere noen av regionens mest komplekse saker innen familie- og
-                            forvaltningsrett.
+                            Grunnlagt i 2005 av Marco Patrick Johan, ble firmaet etablert med et klart mål: å gi
+                            juridisk bistand som er tilgjengelig, grundig og resultatorientert. Det som startet som et
+                            lite kontor i Oslo, har vokst til et spesialisert miljø kjent for å håndtere krevende saker
+                            innen familie- og forvaltningsrett.
 
                         </p>
                         <p class="mb-6">
-                            I løpet av de siste to tiårene har vi representert hundrevis av klienter mot mektige
-                            institusjoner som NAV og barnevernet. Vår vekst har vært organisk, drevet av anbefalinger
-                            fra fornøyde klienter som fant håp og løsning gjennom vår bistand.
+                            I to tiår har vi bistått klienter i møte med sterke motparter som NAV og barnevernet. Vår
+                            utvikling er bygget på tillit og anbefalinger fra mennesker som har fått trygghet,
+                            klarhet og gode løsninger gjennom vår hjelp.
                         </p>
                     </div>
                 </div>
@@ -64,23 +63,20 @@
                                 class="text-law-blue font-medium">familierett</span>, <span
                                 class="text-law-blue font-medium">trygderett (NAV)</span> og <span
                                 class="text-law-blue font-medium">utlendingsrett</span>. Vi mener at juridisk rådgivning
-                            ikke bare handler om å tolke lover, men om å forstå menneskelivene som påvirkes av dem.
+                            ikke bare handler om å tolke lover, men om å forstå menneskene som berøres av dem.
                         </p>
                         <p class="mb-6 leading-loose">
-                            Vi forstår at juridiske problemer ofte berører de mest personlige og kritiske aspektene av
-                            våre klienters liv – deres barn, deres økonomiske sikkerhet og deres rett til å bo i dette
-                            landet. Derfor tilnærmer vi oss hver sak med en kombinasjon av skarp juridisk strategi og
-                            ekte medfølelse.
+                            Juridiske spørsmål griper inn i det mest personlige: barn, økonomisk trygghet og retten til
+                            å leve et stabilt liv. Derfor kombinerer vi presis juridisk strategi med ekte omtanke.
                         </p>
                         <p class="mb-6 leading-loose">
-                            Våre advokater har bred ekspertise og konkret erfaring fra flere av de faglige organene vi
-                            møter i våre saker. Denne innsikten gjør at vi kan navigere komplekse byråkratiske systemer
-                            effektivt på dine vegne, og forutse utfordringer før de oppstår.
+                            Våre advokater har solid erfaring fra organene vi møter i sakene. Den innsikten gjør at vi
+                            kan navigere komplekse systemer effektivt og være i forkant av utfordringer.
                         </p>
                         <p
                             class="mb-10 leading-loose border-l-2 border-law-gold pl-6 italic text-slate-700 bg-slate-50 py-4 pr-4 rounded-r-sm">
-                            "Tillit er avgjørende. Når du velger oss, ansetter du ikke bare en advokat; du samarbeider
-                            med en dedikert forkjemper som vil kjempe for dine rettigheter som om de var våre egne."
+                            "Tillit er avgjørende. Når du velger oss, får du en dedikert samarbeidspartner som jobber
+                            for dine rettigheter som om de var våre egne."
                         </p>
                     </div>
                 </div>
@@ -97,8 +93,8 @@
                         </div>
                         <div class="ml-4">
                             <h4 class="font-serif font-semibold text-law-blue mb-2">Spesialisert kompetanse</h4>
-                            <p class="text-sm text-slate-500 leading-relaxed font-light">Vi fokuserer på spesifikke
-                                rettsområder for å tilby rådgivning og representasjon av høyeste kvalitet.</p>
+                            <p class="text-sm text-slate-500 leading-relaxed font-light">Vi arbeider innen tydelige
+                                fagfelt for å gi deg best mulig kvalitet og presisjon.</p>
                         </div>
                     </div>
                     <div class="flex items-start">
@@ -110,9 +106,9 @@
                             </svg>
                         </div>
                         <div class="ml-4">
-                            <h4 class="font-serif font-semibold text-law-blue mb-2">Personlig tilnærming</h4>
-                            <p class="text-sm text-slate-500 leading-relaxed font-light">Vi tilbyr tett oppfølging og
-                                tilgjengelighet, slik at du aldri føler deg alene i prosessen.</p>
+                            <h4 class="font-serif font-semibold text-law-blue mb-2">Personlig oppfølging</h4>
+                            <p class="text-sm text-slate-500 leading-relaxed font-light">Du får en tydelig kontaktperson
+                                og jevnlig oppdatering gjennom hele prosessen.</p>
                         </div>
                     </div>
                     <div class="flex items-start">
@@ -124,9 +120,9 @@
                             </svg>
                         </div>
                         <div class="ml-4">
-                            <h4 class="font-serif font-semibold text-law-blue mb-2">Resultatorientert</h4>
-                            <p class="text-sm text-slate-500 leading-relaxed font-light">Vårt mål er alltid å oppnå best
-                                mulig resultat for din unike situasjon.</p>
+                            <h4 class="font-serif font-semibold text-law-blue mb-2">Resultatfokus</h4>
+                            <p class="text-sm text-slate-500 leading-relaxed font-light">Vi jobber målrettet for å
+                                oppnå det beste realistiske utfallet for din situasjon.</p>
                         </div>
                     </div>
                 </div>
@@ -134,10 +130,10 @@
 
             <div class="lg:w-1/3 space-y-8 lg:sticky lg:top-32">
                 <div class="bg-slate-50 p-10 rounded-sm border border-slate-100 shadow-soft">
-                    <h3 class="text-xl font-serif font-medium text-law-blue mb-6">Trenger du juridisk bistand?</h3>
+                    <h3 class="text-xl font-serif font-medium text-law-blue mb-6">Usikker på veien videre?</h3>
                     <p class="text-slate-500 mb-8 text-sm leading-relaxed font-light">
-                        Usikker på din juridiske stilling? Vi tilbyr en gratis innledende vurdering for å hjelpe deg med
-                        å forstå dine alternativer.
+                        Usikker på din juridiske stilling? Vi tilbyr en gratis innledende vurdering som gir deg
+                        oversikt over muligheter og neste steg.
                     </p>
                     <a href="contact.php"
                         class="block w-full bg-law-gold text-white text-center py-4 rounded-sm hover:bg-law-blue transition-colors duration-300 font-bold tracking-widest text-xs uppercase shadow-lg shadow-yellow-900/10">Kontakt
@@ -174,8 +170,8 @@
                     </svg>
                 </div>
                 <h3 class="text-xl font-serif font-light mb-4">Integritet</h3>
-                <p class="text-slate-300 font-light leading-relaxed text-sm">Vi følger de høyeste etiske standarder, og
-                    sikrer ærlighet og åpenhet i enhver interaksjon.</p>
+                <p class="text-slate-300 font-light leading-relaxed text-sm">Vi holder høy etisk standard og er åpne og
+                    tydelige i hver vurdering og hvert råd.</p>
             </div>
             <div class="text-center">
                 <div
@@ -187,8 +183,8 @@
                     </svg>
                 </div>
                 <h3 class="text-xl font-serif font-light mb-4">Empati</h3>
-                <p class="text-slate-300 font-light leading-relaxed text-sm">Vi forstår den menneskelige siden av
-                    juridiske problemer og behandler hver klient med medfølelse og respekt.</p>
+                <p class="text-slate-300 font-light leading-relaxed text-sm">Vi ser menneskene bak saken og møter deg
+                    med respekt, ro og omtanke.</p>
             </div>
             <div class="text-center">
                 <div
@@ -199,8 +195,8 @@
                     </svg>
                 </div>
                 <h3 class="text-xl font-serif font-light mb-4">Dedikasjon</h3>
-                <p class="text-slate-300 font-light leading-relaxed text-sm">Vi er utrettelige i vår jakt på
-                    rettferdighet, og strekker oss langt for å sikre de beste resultatene.</p>
+                <p class="text-slate-300 font-light leading-relaxed text-sm">Vi jobber grundig og målrettet for å sikre
+                    best mulig resultat.</p>
             </div>
         </div>
     </div>
@@ -227,8 +223,7 @@
                         <p class="text-law-gold text-xs font-bold tracking-widest uppercase mb-4">Grunnlegger & Partner
                         </p>
                         <p class="text-slate-500 font-light text-sm leading-relaxed mb-6">
-                            Spesialiserer seg på familierett og barnevern med over 15 års prosedyreerfaring i norske
-                            domstoler.
+                            Spesialisert innen familierett og barnevern med over 15 års erfaring fra norske domstoler.
                         </p>
                     </div>
                 </div>
@@ -243,7 +238,7 @@
                         <h4 class="text-lg font-serif font-medium text-law-blue mb-1">Sarah Johansen</h4>
                         <p class="text-law-gold text-xs font-bold tracking-widest uppercase mb-2">Advokat</p>
                         <p class="text-slate-500 font-light text-sm leading-relaxed">
-                            Erfaren advokat med fokus på strafferett og sivil prosedyre.
+                            Erfaren advokat med hovedfokus på strafferett og sivil prosedyre.
                         </p>
                     </div>
 
@@ -252,8 +247,8 @@
                         <h4 class="text-lg font-serif font-medium text-law-blue mb-1">Patrick Leif Hansen</h4>
                         <p class="text-law-gold text-xs font-bold tracking-widest uppercase mb-2">Senioradvokat</p>
                         <p class="text-slate-500 font-light text-sm leading-relaxed">
-                            Ekspert på utlendingsrett og asylsaker, dedikert til å hjelpe familier med gjenforening og
-                            sikre deres fremtid.
+                            Ekspert på utlendingsrett og asylsaker, med særlig vekt på familiegjenforening og
+                            langsiktig trygghet.
                         </p>
                     </div>
 

@@ -22,9 +22,9 @@
             <div class="space-y-12">
                 <div>
                     <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Ta kontakt</span>
-                    <h2 class="text-3xl font-serif font-light text-law-blue mb-6">Vi er her for å hjelpe</h2>
+                    <h2 class="text-3xl font-serif font-light text-law-blue mb-6">Vi hjelper deg videre</h2>
                     <p class="text-slate-500 mb-8 leading-loose font-light">
-                        Vi tilbyr en gratis innledende vurdering av saken din. Fyll ut skjemaet, eller kontakt oss direkte via telefon eller e-post. Alle henvendelser behandles strengt konfidensielt.
+                        Vi tilbyr en gratis innledende vurdering av saken din. Send inn skjemaet, eller kontakt oss direkte på e-post. Alle henvendelser behandles konfidensielt.
                     </p>
                 </div>
 
@@ -54,7 +54,7 @@
                             <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
                         </div>
                         <div>
-                            <h4 class="font-serif font-medium text-law-blue text-lg">Send oss e-post</h4>
+                            <h4 class="font-serif font-medium text-law-blue text-lg">E-post</h4>
                             <p class="text-slate-500 font-light mt-1">post@patricks-juridisk.no</p>
                         </div>
                     </div>
@@ -89,28 +89,28 @@
                 
                 <?php if (isset($_GET['success'])): ?>
                     <div class="bg-green-50 border-l-4 border-green-500 text-green-700 p-4 mb-6 rounded-sm text-sm" role="alert">
-                        <p class="font-bold mb-1">Suksess</p>
-                        <p>Meldingen din er sendt. Vi vil ta kontakt med deg snart.</p>
+                        <p class="font-bold mb-1">Meldingen er sendt</p>
+                        <p>Vi tar kontakt med deg så snart som mulig.</p>
                     </div>
                 <?php endif; ?>
 
                 <form action="submit_contact.php" method="POST" class="space-y-6">
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                         <div>
-                            <label for="name" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Ditt navn</label>
+                        <label for="name" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Navn</label>
                             <input type="text" id="name" name="name" required class="w-full bg-slate-50 border-slate-200 rounded-sm focus:border-law-blue focus:ring-0 transition-colors py-3 px-4 text-slate-700">
                         </div>
                         <div>
-                            <label for="phone" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Telefonnummer</label>
+                        <label for="phone" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Telefon</label>
                             <input type="tel" id="phone" name="phone" class="w-full bg-slate-50 border-slate-200 rounded-sm focus:border-law-blue focus:ring-0 transition-colors py-3 px-4 text-slate-700">
                         </div>
                     </div>
                     <div>
-                        <label for="email" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">E-postadresse</label>
+                        <label for="email" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">E-post</label>
                         <input type="email" id="email" name="email" required class="w-full bg-slate-50 border-slate-200 rounded-sm focus:border-law-blue focus:ring-0 transition-colors py-3 px-4 text-slate-700">
                     </div>
                     <div>
-                        <label for="subject" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Emne</label>
+                        <label for="subject" class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Tema</label>
                         <div class="relative">
                             <select id="subject" name="subject" class="w-full bg-slate-50 border-slate-200 rounded-sm focus:border-law-blue focus:ring-0 transition-colors py-3 px-4 text-slate-700 appearance-none">
                                 <option value="General Inquiry">Generell henvendelse</option>

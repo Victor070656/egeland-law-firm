@@ -13,21 +13,21 @@
     <div class="container mx-auto px-8 relative z-20">
         <div class="max-w-4xl">
             <h1 class="text-5xl md:text-7xl font-serif font-light leading-tight mb-8">
-                Juridisk bistand <br>
-                <span class="italic text-law-gold font-serif">du kan stole på</span>
+                Juridisk støtte <br>
+                <span class="italic text-law-gold font-serif">når det betyr mest</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-300 mb-10 max-w-2xl font-light leading-relaxed tracking-wide">
-                Spesialisert kompetanse innen familierett, trygderett og utlendingsrett. Vi beskytter dine rettigheter
-                med integritet og profesjonalitet.
+                Spisskompetanse innen familierett, trygderett og utlendingsrett. Vi gir deg tydelige råd, trygg
+                prosess og målrettet representasjon.
             </p>
             <div class="flex flex-col md:flex-row gap-6">
                 <a href="contact.php"
                     class="bg-law-gold text-white px-10 py-4 rounded-sm hover:bg-white hover:text-law-blue transition-all duration-300 font-semibold tracking-widest text-xs uppercase shadow-lg shadow-yellow-900/20 text-center">
-                    Få en gratis vurdering
+                    Be om en gratis vurdering
                 </a>
                 <a href="services.php"
                     class="border border-white/30 backdrop-blur-sm text-white px-10 py-4 rounded-sm hover:bg-white hover:text-law-blue transition-all duration-300 font-semibold tracking-widest text-xs uppercase text-center">
-                    Våre fagområder
+                    Se våre fagområder
                 </a>
             </div>
         </div>
@@ -40,19 +40,19 @@
         <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center divide-x divide-slate-700/50">
             <div>
                 <div class="text-4xl font-serif text-law-gold font-light mb-2">20+</div>
-                <div class="text-xs uppercase tracking-widest text-slate-400">Års erfaring</div>
+                <div class="text-xs uppercase tracking-widest text-slate-400">År med erfaring</div>
             </div>
             <div>
                 <div class="text-4xl font-serif text-law-gold font-light mb-2">500+</div>
-                <div class="text-xs uppercase tracking-widest text-slate-400">Saker løst</div>
+                <div class="text-xs uppercase tracking-widest text-slate-400">Løste saker</div>
             </div>
             <div>
                 <div class="text-4xl font-serif text-law-gold font-light mb-2">100%</div>
-                <div class="text-xs uppercase tracking-widest text-slate-400">Dedikasjon</div>
+                <div class="text-xs uppercase tracking-widest text-slate-400">Klientfokus</div>
             </div>
             <div>
                 <div class="text-4xl font-serif text-law-gold font-light mb-2">24t</div>
-                <div class="text-xs uppercase tracking-widest text-slate-400">Responstid</div>
+                <div class="text-xs uppercase tracking-widest text-slate-400">Svar innen 24t</div>
             </div>
         </div>
     </div>
@@ -77,24 +77,24 @@
             </div>
 
             <div class="md:w-1/2">
-                <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Om vårt firma</span>
-                <h2 class="text-4xl font-serif font-light text-law-blue mb-8 leading-tight">Forpliktet til dine
-                    rettigheter og fremtid</h2>
+                <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Om firmaet</span>
+                <h2 class="text-4xl font-serif font-light text-law-blue mb-8 leading-tight">Forankret i rettferdighet,
+                    drevet av mennesker</h2>
 
                 <p class="text-slate-600 mb-6 leading-loose font-light">
-                    Tillit er hjørnesteinen i ethvert effektivt advokat-klient-forhold. Hos Patricks Juridisk Senter
-                    spesialiserer vi oss på å hjelpe enkeltpersoner med å navigere i det komplekse juridiske landskapet
-                    innen barnevern, trygderett (NAV), utlendingsrett og familierett.
+                    Tillit er grunnlaget for et godt advokatklientforhold. Hos Patricks Juridisk Senter hjelper vi
+                    enkeltpersoner å finne veien gjennom barnevern, trygderett (NAV), utlendingsrett og familierett med
+                    tydelig kommunikasjon og trygg framdrift.
                 </p>
                 <p class="text-slate-600 mb-10 leading-loose font-light">
-                    Vårt team har bred ekspertise og innsikt fra de faglige organene vi møter. Vi har dokumenterte
-                    resultater og sikrer at du får representasjon av høyeste kvalitet.
+                    Vi kombinerer solid erfaring fra fagorganene vi møter med en praktisk, løsningsorientert
+                    tilnærming. Du får en rådgiver som ser hele situasjonen og jobber for det beste utfallet.
                 </p>
 
                 <a href="about.php"
                     class="group inline-flex items-center text-law-blue font-semibold tracking-widest text-xs uppercase hover:text-law-gold transition-colors">
-                    <span class="border-b border-law-blue group-hover:border-law-gold pb-1 transition-colors">Les mer om
-                        oss</span>
+                    <span class="border-b border-law-blue group-hover:border-law-gold pb-1 transition-colors">Les mer
+                        om oss</span>
                     <svg class="w-4 h-4 ml-3 transform group-hover:translate-x-1 transition-transform duration-300"
                         fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
@@ -111,9 +111,9 @@
     <div class="container mx-auto px-8">
         <div class="text-center mb-16 max-w-3xl mx-auto">
             <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Slik jobber vi</span>
-            <h2 class="text-4xl font-serif font-light text-law-blue mb-6">Din vei til en løsning</h2>
-            <p class="text-slate-500 font-light leading-relaxed">Vi tror på en transparent og strukturert tilnærming for
-                å håndtere dine juridiske saker effektivt.</p>
+            <h2 class="text-4xl font-serif font-light text-law-blue mb-6">En klar vei fra spørsmål til løsning</h2>
+            <p class="text-slate-500 font-light leading-relaxed">Vi jobber strukturert, forklarer valgene dine og skaper
+                fremdrift i hvert steg.</p>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-3 gap-12 relative">
@@ -126,10 +126,10 @@
                     class="w-24 h-24 bg-white border-4 border-slate-50 rounded-full flex items-center justify-center text-law-blue shadow-lg mx-auto mb-8">
                     <span class="font-serif text-3xl font-bold">1</span>
                 </div>
-                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Konsultasjon</h3>
+                <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Kartlegging</h3>
                 <p class="text-slate-500 text-sm leading-relaxed font-light px-4">
-                    Vi starter med en grundig vurdering av din sak for å forstå detaljene og bestemme den beste
-                    fremgangsmåten.
+                    Vi starter med en grundig gjennomgang av situasjonen din og vurderer hvilke alternativer som gir
+                    best grunnlag for et godt resultat.
                 </p>
             </div>
 
@@ -141,8 +141,8 @@
                 </div>
                 <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Strategi</h3>
                 <p class="text-slate-500 text-sm leading-relaxed font-light px-4">
-                    Vårt team utvikler en skreddersydd juridisk strategi, samler nødvendig dokumentasjon og forbereder
-                    sterke argumenter.
+                    Vi utformer en målrettet plan, innhenter nødvendig dokumentasjon og bygger et tydelig og
+                    overbevisende grunnlag.
                 </p>
             </div>
 
@@ -154,8 +154,8 @@
                 </div>
                 <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Representasjon</h3>
                 <p class="text-slate-500 text-sm leading-relaxed font-light px-4">
-                    Vi står ved din side og representerer deg i forhandlinger, høringer eller retten for å oppnå det
-                    optimale resultatet.
+                    Vi står ved din side i møter, forhandlinger og eventuelt i retten, og arbeider for det beste utfallet
+                    i saken din.
                 </p>
             </div>
         </div>
@@ -171,8 +171,8 @@
         <div class="text-center mb-24 max-w-3xl mx-auto">
             <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Vår ekspertise</span>
             <h2 class="text-4xl font-serif font-light text-law-blue mb-6">Spesialiserte juridiske tjenester</h2>
-            <p class="text-slate-500 font-light leading-relaxed">Vi tilbyr skreddersydd juridisk rådgivning designet for
-                å møte de unike utfordringene i din personlige situasjon.</p>
+            <p class="text-slate-500 font-light leading-relaxed">Vi tilbyr rådgivning og prosessbistand tilpasset din
+                situasjon, med fokus på trygghet og tydelighet.</p>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -192,7 +192,7 @@
                 </div>
                 <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Familierett</h3>
                 <p class="text-slate-500 text-sm leading-relaxed mb-8 font-light">
-                    Veiledning om barnefordeling, arv, skifteoppgjør og eiendomsdeling.
+                    Råd og representasjon ved barnefordeling, arv, skifte og deling av eiendeler.
                 </p>
                 <span
                     class="text-law-gold text-xs font-bold tracking-widest uppercase flex items-center group-hover:translate-x-2 transition-transform duration-300">
@@ -219,7 +219,7 @@
                 </div>
                 <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Trygderett</h3>
                 <p class="text-slate-500 text-sm leading-relaxed mb-8 font-light">
-                    Bistand med klager på NAV-vedtak, uføretrygd og trygderettigheter.
+                    Hjelp med klager på NAV-vedtak, uføretrygd og andre trygderettigheter.
                 </p>
                 <span
                     class="text-law-gold text-xs font-bold tracking-widest uppercase flex items-center group-hover:translate-x-2 transition-transform duration-300">
@@ -246,7 +246,7 @@
                 </div>
                 <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Barnevern</h3>
                 <p class="text-slate-500 text-sm leading-relaxed mb-8 font-light">
-                    Representasjon i omsorgsovertakelse, samværsrett og fylkesnemndsaker.
+                    Bistand i omsorgsovertakelse, samværssaker og nemndsbehandling.
                 </p>
                 <span
                     class="text-law-gold text-xs font-bold tracking-widest uppercase flex items-center group-hover:translate-x-2 transition-transform duration-300">
@@ -273,7 +273,7 @@
                 </div>
                 <h3 class="text-xl font-serif font-medium text-law-blue mb-4">Utlendingsrett</h3>
                 <p class="text-slate-500 text-sm leading-relaxed mb-8 font-light">
-                    Hjelp med oppholdstillatelse, familiegjenforening, statsborgerskap og asylklager.
+                    Bistand med opphold, familiegjenforening, statsborgerskap og klager i utlendingssaker.
                 </p>
                 <span
                     class="text-law-gold text-xs font-bold tracking-widest uppercase flex items-center group-hover:translate-x-2 transition-transform duration-300">
@@ -485,15 +485,14 @@
             </div>
             <div class="md:w-1/2">
                 <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Teamet</span>
-                <h2 class="text-4xl font-serif font-light text-law-blue mb-6">Møt våre advokater</h2>
+                <h2 class="text-4xl font-serif font-light text-law-blue mb-6">Møt advokatene våre</h2>
                 <p class="text-slate-600 mb-8 leading-loose font-light">
-                    Vår styrke ligger i våre folk. Patricks Juridisk Senter består av dedikerte advokater med
-                    spesialisert erfaring innen sine felt. Vi samarbeider for å sikre at du får best mulig juridisk
-                    representasjon.
+                    Vi er et dedikert team med tydelig ansvar og spesialisering. Sammen gir vi deg faglig tyngde, god
+                    oppfølging og en forutsigbar prosess.
                 </p>
                 <a href="about.php"
                     class="bg-law-blue text-white px-8 py-4 rounded-sm hover:bg-law-gold transition-all duration-300 font-bold tracking-widest text-xs uppercase shadow-lg shadow-blue-900/20">
-                    Se vårt team
+                    Les om teamet
                 </a>
             </div>
         </div>
@@ -512,10 +511,10 @@
             <!-- Left Column: Text & Info -->
             <div class="lg:w-1/2 text-white">
                 <span class="text-law-gold text-xs font-bold tracking-[0.2em] uppercase mb-4 block">Ta kontakt</span>
-                <h2 class="text-4xl font-serif font-light mb-6">Trenger du juridisk bistand?</h2>
+                <h2 class="text-4xl font-serif font-light mb-6">La oss vurdere saken din</h2>
                 <p class="text-slate-300 mb-10 leading-loose font-light text-lg">
-                    Vi tilbyr en gratis innledende vurdering av din sak helt uforpliktende. Fyll ut skjemaet, så kommer
-                    vårt team tilbake til deg innen 24 timer.
+                    Vi tilbyr en gratis, uforpliktende vurdering. Send inn skjemaet, så tar vi kontakt innen 24 timer
+                    med neste steg.
                 </p>
 
                 <div class="space-y-8">
@@ -539,7 +538,7 @@
                             </svg>
                         </div>
                         <div>
-                            <h4 class="font-serif font-medium text-white text-lg">Send oss e-post</h4>
+                            <h4 class="font-serif font-medium text-white text-lg">E-post</h4>
                             <p class="text-slate-400 font-light mt-1">post@patricks-juridisk.no</p>
                         </div>
                     </div>
@@ -569,8 +568,8 @@
                     <?php if (isset($_GET['success'])): ?>
                         <div class="bg-green-50 border-l-4 border-green-500 text-green-700 p-4 mb-6 rounded-sm text-sm"
                             role="alert">
-                            <p class="font-bold mb-1">Melding sendt!</p>
-                            <p>Vi kontakter deg snart.</p>
+                            <p class="font-bold mb-1">Meldingen er sendt!</p>
+                            <p>Vi tar kontakt så snart som mulig.</p>
                         </div>
                     <?php endif; ?>
 
@@ -580,27 +579,26 @@
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                             <div>
                                 <label for="name"
-                                    class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Ditt
-                                    navn</label>
+                                    class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Navn</label>
                                 <input type="text" id="name" name="name" required
                                     class="w-full bg-slate-50 border-slate-200 rounded-sm focus:border-law-blue focus:ring-0 transition-colors py-3 px-4 text-slate-700">
                             </div>
                             <div>
                                 <label for="phone"
-                                    class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Telefonnummer</label>
+                                    class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Telefon</label>
                                 <input type="tel" id="phone" name="phone"
                                     class="w-full bg-slate-50 border-slate-200 rounded-sm focus:border-law-blue focus:ring-0 transition-colors py-3 px-4 text-slate-700">
                             </div>
                         </div>
                         <div>
                             <label for="email"
-                                class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">E-postadresse</label>
+                                class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">E-post</label>
                             <input type="email" id="email" name="email" required
                                 class="w-full bg-slate-50 border-slate-200 rounded-sm focus:border-law-blue focus:ring-0 transition-colors py-3 px-4 text-slate-700">
                         </div>
                         <div>
                             <label for="subject"
-                                class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Emne</label>
+                                class="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2">Tema</label>
                             <div class="relative">
                                 <select id="subject" name="subject"
                                     class="w-full bg-slate-50 border-slate-200 rounded-sm focus:border-law-blue focus:ring-0 transition-colors py-3 px-4 text-slate-700 appearance-none">

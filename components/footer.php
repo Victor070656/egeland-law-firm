@@ -10,7 +10,8 @@
                      <span class="text-xl font-serif font-bold tracking-wide">PATRICKS</span>
                 </div>
                 <p class="text-slate-400 text-sm leading-relaxed mb-8 max-w-sm font-light">
-                    Spesialister innen familierett, trygderett og utlendingsrett. Vi tilbyr erfaren juridisk bistand med en personlig tilnærming og en forpliktelse til integritet.
+                    Spesialister innen familierett, trygderett og utlendingsrett. Vi kombinerer faglig styrke med
+                    personlig oppfølging og tydelig rådgivning.
                 </p>
                 <div class="flex space-x-6">
                     <a href="#" class="text-slate-400 hover:text-white transition-colors"><span class="sr-only">Facebook</span>
@@ -24,7 +25,7 @@
 
             <!-- Quick Links -->
             <div>
-                <h4 class="text-xs font-bold text-law-gold uppercase tracking-[0.2em] mb-8">Fagområder</h4>
+                <h4 class="text-xs font-bold text-law-gold uppercase tracking-[0.2em] mb-8">Tjenesteområder</h4>
                 <ul class="space-y-4 text-sm text-slate-400 font-light">
                     <li><a href="services.php#family" class="hover:text-white transition-colors flex items-center"><span class="w-1 h-1 bg-slate-600 rounded-full mr-2"></span>Familierett</a></li>
                     <li><a href="services.php#social" class="hover:text-white transition-colors flex items-center"><span class="w-1 h-1 bg-slate-600 rounded-full mr-2"></span>Trygderett & NAV</a></li>

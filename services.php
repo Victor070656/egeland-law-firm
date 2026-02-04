@@ -7,7 +7,7 @@
     </div>
     <div class="absolute inset-0 bg-gradient-to-t from-law-blue via-law-blue/90 to-transparent"></div>
     <div class="container mx-auto px-8 relative z-10 text-center">
-        <h1 class="text-4xl md:text-5xl font-serif font-light mb-4">Fagområder</h1>
+        <h1 class="text-4xl md:text-5xl font-serif font-light mb-4">Våre tjenester</h1>
         <div class="flex justify-center items-center text-xs font-semibold tracking-widest text-slate-400 uppercase">
             <a href="index.php" class="hover:text-white transition-colors">Hjem</a> <span class="mx-4 text-law-gold">/</span> <span class="text-white">Tjenester</span>
         </div>
@@ -54,10 +54,10 @@
                         </div>
                         <div class="prose prose-slate max-w-none text-slate-600 font-light leading-loose">
                             <p class="mb-6">
-                                Familierettslige konflikter er ofte de mest personlige og følelsesmessig krevende juridiske utfordringene man kan stå overfor. Enten du går gjennom en skilsmisse, kjemper for foreldrerett eller håndterer komplekse arveoppgjør, trenger du en advokat som er både medfølende og juridisk skarp.
+                                Familierett handler om livets mest personlige spørsmål. Ved skilsmisse, foreldretvister eller arveoppgjør trenger du en rådgiver som kombinerer ro, tydelighet og juridisk presisjon.
                             </p>
                             <p class="mb-6">
-                                Vi gir objektiv, profesjonell veiledning for å hjelpe deg med å oppnå rettferdige løsninger, og prioriterer barnas beste. Vi streber etter minnelige løsninger, men er fullt forberedt på å prosedere når det er nødvendig for å beskytte dine interesser.
+                                Vi gir nøktern og profesjonell veiledning, med barnas beste som et sentralt hensyn. Vi søker gode løsninger gjennom dialog, men er klare til å prosedere når det er nødvendig.
                             </p>
                             <ul class="space-y-3 mt-8">
                                 <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Barnefordeling og samværsrett</li>
@@ -97,10 +97,10 @@
                         </div>
                         <div class="prose prose-slate max-w-none text-slate-600 font-light leading-loose">
                             <p class="mb-6">
-                                Det norske trygdesystemet er komplekst, og å navigere i NAVs regelverk kan være overveldende. Mange mottar dessverre uriktige vedtak om ytelser de har lovfestet rett til.
+                                Trygdesystemet er omfattende, og NAVs regelverk kan være krevende å navigere. Mange får vedtak som ikke samsvarer med rettighetene de har.
                             </p>
                             <p class="mb-6">
-                                Vi spesialiserer oss på å bistå klienter med klager og anker mot NAV-vedtak. Våre advokater har dyp kunnskap om folketrygdloven og kan hjelpe deg med å innhente nødvendig medisinsk og faktisk dokumentasjon for å styrke saken din.
+                                Vi bistår med klager og anker mot NAV-vedtak. Med solid kunnskap om folketrygdloven hjelper vi deg å bygge saken med relevant medisinsk og faktisk dokumentasjon.
                             </p>
                              <ul class="space-y-3 mt-8">
                                 <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-blue rounded-full mr-3"></span>Klager på avslag og reduksjon av ytelser fra NAV</li>
@@ -128,10 +128,10 @@
                         </div>
                         <div class="prose prose-slate max-w-none text-slate-600 font-light leading-loose">
                             <p class="mb-6">
-                                Saker som involverer barnevernet er blant de mest inngripende og alvorlige juridiske sakene en familie kan stå overfor. Konsekvensene er store, og tidlig juridisk bistand er ofte avgjørende.
+                                Barnevernssaker er blant de mest alvorlige og inngripende sakene en familie kan møte. Konsekvensene er store, og tidlig juridisk bistand er ofte avgjørende.
                             </p>
                             <p class="mb-6">
-                                Vi tilbyr robust forsvar og støtte for foreldre og barn i disse prosessene. Vi sikrer at barnevernet overholder strenge lovkrav og at din rett til familieliv respekteres og beskyttes.
+                                Vi gir tydelig og robust bistand for foreldre og barn. Vi ivaretar at lovkravene følges, og at retten til familieliv blir respektert.
                             </p>
                             <ul class="space-y-3 mt-8">
                                 <li class="flex items-center text-sm"><span class="w-1.5 h-1.5 bg-law-gold rounded-full mr-3"></span>Bistand under innledende undersøkelser og møter</li>
@@ -171,35 +171,35 @@
                         </div>
                         <div class="prose prose-slate max-w-none text-slate-600 font-light leading-loose">
                             <p class="mb-6">
-                                Å flytte til et nytt land innebærer komplekse regler og strenge dokumentasjonskrav. Vi hjelper enkeltpersoner og familier med alle aspekter av norsk utlendingsrett, og sikrer at søknadene dine er korrekte og fullstendige for å unngå unødvendige forsinkelser eller avslag.
+                                Flytting til et nytt land innebærer komplekse regler og strenge krav til dokumentasjon. Vi hjelper enkeltpersoner og familier med norsk utlendingsrett og sørger for at søknader er korrekte og komplette.
                             </p>
                             <p class="mb-6">
-                                Fra første søknad til komplekse klager mot UDI og UNE, står vi ved din side. Vi har omfattende erfaring med familiegjenforening, arbeidstillatelser og asylsaker.
+                                Fra første søknad til klager mot UDI og UNE står vi ved din side. Vi har bred erfaring med familiegjenforening, arbeidstillatelser og asylsaker.
                             </p>
                             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
                                 <div class="bg-slate-50 p-6 rounded-sm border border-slate-100">
                                     <h4 class="font-serif font-medium text-law-blue mb-2">Familiegjenforening</h4>
-                                    <p class="text-sm text-slate-600 font-light">Søknader for ektefeller og barn. Vi sikrer at alle krav til inntekt og bolig er dokumentert korrekt.</p>
+                                    <p class="text-sm text-slate-600 font-light">Søknader for ektefeller og barn, med riktig dokumentasjon av inntekt og bolig.</p>
                                 </div>
                                 <div class="bg-slate-50 p-6 rounded-sm border border-slate-100">
-                                    <h4 class="font-serif font-medium text-law-blue mb-2">Arbeid- og Studietillatelser</h4>
-                                    <p class="text-sm text-slate-600 font-light">Bistand til faglærte og studenter med å sikre nødvendige tillatelser for arbeid og utdanning i Norge.</p>
+                                    <h4 class="font-serif font-medium text-law-blue mb-2">Arbeids- og studietillatelser</h4>
+                                    <p class="text-sm text-slate-600 font-light">Bistand til faglærte og studenter med nødvendige tillatelser for arbeid og utdanning i Norge.</p>
                                 </div>
                                 <div class="bg-law-gold/10 p-6 rounded-sm border border-law-gold/20">
-                                    <h4 class="font-serif font-medium text-law-blue mb-2">High tier Visa fast tracking for VIPs</h4>
-                                    <p class="text-sm text-slate-600 font-light">Eksklusiv hurtigbehandling for nøkkelpersonell og VIP-er som krever umiddelbar innreise og arbeidsrett.</p>
+                                    <h4 class="font-serif font-medium text-law-blue mb-2">Hurtigspor for kritiske saker</h4>
+                                    <p class="text-sm text-slate-600 font-light">Bistand til rask behandling når tidskritiske behov krever umiddelbar innreise eller oppstart.</p>
                                 </div>
                                 <div class="bg-slate-50 p-6 rounded-sm border border-slate-100">
-                                    <h4 class="font-serif font-medium text-law-blue mb-2">Permanent Opphold & Statsborgerskap</h4>
-                                    <p class="text-sm text-slate-600 font-light">Veiledning gjennom kravene for varig opphold og prosessen for å bli norsk statsborger.</p>
+                                    <h4 class="font-serif font-medium text-law-blue mb-2">Permanent opphold & statsborgerskap</h4>
+                                    <p class="text-sm text-slate-600 font-light">Veiledning gjennom kravene for varig opphold og veien til norsk statsborgerskap.</p>
                                 </div>
                                 <div class="bg-slate-50 p-6 rounded-sm border border-slate-100">
                                     <h4 class="font-serif font-medium text-law-blue mb-2">Asyl og Beskyttelse</h4>
-                                    <p class="text-sm text-slate-600 font-light">Juridisk bistand i asylsøknader og klager på avslag for de som trenger beskyttelse.</p>
+                                    <p class="text-sm text-slate-600 font-light">Juridisk bistand ved asylsøknader og klager på avslag for de som trenger beskyttelse.</p>
                                 </div>
                                 <div class="bg-slate-50 p-6 rounded-sm border border-slate-100">
                                     <h4 class="font-serif font-medium text-law-blue mb-2">Forsvar mot Utvisning</h4>
-                                    <p class="text-sm text-slate-600 font-light">Hjelp i saker om tilbakekall av tillatelser og utvisning, for å beskytte din rett til å bli.</p>
+                                    <p class="text-sm text-slate-600 font-light">Hjelp ved tilbakekall av tillatelser og utvisning, for å ivareta din rett til å bli.</p>
                                 </div>
                             </div>
                         </div>
@@ -224,13 +224,13 @@
             <div class="bg-white rounded-sm shadow-sm border border-slate-100 overflow-hidden">
                 <details class="group">
                     <summary class="flex justify-between items-center font-medium cursor-pointer list-none p-6 text-law-blue hover:text-law-gold transition-colors">
-                        <span>Tilbyr dere gratis rettshjelp?</span>
+                        <span>Tilbyr dere gratis vurdering?</span>
                         <span class="transition group-open:rotate-180">
                             <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
                         </span>
                     </summary>
                     <div class="text-slate-500 font-light leading-relaxed p-6 pt-0 text-sm">
-                        Ja, vi tilbyr en gratis innledende vurdering av saken din. Dette hjelper oss å forstå situasjonen din og avgjøre om og hvordan vi kan bistå deg. Det er ingen forpliktelse til å gå videre etter denne samtalen.
+                        Ja, vi tilbyr en gratis innledende vurdering. Den gir oss innsikt i situasjonen din og deg en klarere forståelse av neste steg. Det er ingen forpliktelse til å gå videre.
                     </div>
                 </details>
             </div>
@@ -239,13 +239,13 @@
             <div class="bg-white rounded-sm shadow-sm border border-slate-100 overflow-hidden">
                 <details class="group">
                     <summary class="flex justify-between items-center font-medium cursor-pointer list-none p-6 text-law-blue hover:text-law-gold transition-colors">
-                        <span>Hva vil saken min koste?</span>
+                        <span>Hva koster det å bruke dere?</span>
                         <span class="transition group-open:rotate-180">
                             <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
                         </span>
                     </summary>
                     <div class="text-slate-500 font-light leading-relaxed p-6 pt-0 text-sm">
-                        Advokatutgifter varierer avhengig av sakens kompleksitet og type. Vi gir et klart kostnadsoverslag på forhånd. I noen saker, som visse NAV-klager eller barnevernssaker, kan du ha krav på fri rettshjelp fra staten.
+                        Kostnadene avhenger av type sak og kompleksitet. Vi gir et tydelig kostnadsoverslag på forhånd, og i enkelte saker kan du ha krav på fri rettshjelp fra staten.
                     </div>
                 </details>
             </div>
@@ -254,13 +254,13 @@
             <div class="bg-white rounded-sm shadow-sm border border-slate-100 overflow-hidden">
                 <details class="group">
                     <summary class="flex justify-between items-center font-medium cursor-pointer list-none p-6 text-law-blue hover:text-law-gold transition-colors">
-                        <span>Hvor lang tid tar en typisk sak?</span>
+                        <span>Hvor lang tid tar en vanlig sak?</span>
                         <span class="transition group-open:rotate-180">
                             <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
                         </span>
                     </summary>
                     <div class="text-slate-500 font-light leading-relaxed p-6 pt-0 text-sm">
-                        Tidslinjen avhenger i stor grad av sakens art og motparten (f.eks. NAV, UDI, domstolene). Noen saker kan løses på uker, mens rettsprosesser kan ta flere måneder. Vi streber etter å løse saker så effektivt som mulig.
+                        Tidslinjen avhenger av sakens art og motparten (for eksempel NAV, UDI eller domstolene). Noen saker løses på uker, mens rettsprosesser kan ta måneder. Vi jobber for mest mulig effektiv fremdrift.
                     </div>
                 </details>
             </div>
@@ -268,13 +268,13 @@
             <div class="bg-white rounded-sm shadow-sm border border-slate-100 overflow-hidden">
                 <details class="group">
                     <summary class="flex justify-between items-center font-medium cursor-pointer list-none p-6 text-law-blue hover:text-law-gold transition-colors">
-                        <span>Kan dere representere meg hvis jeg bor utenfor Oslo?</span>
+                        <span>Kan dere representere meg utenfor Oslo?</span>
                         <span class="transition group-open:rotate-180">
                             <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
                         </span>
                     </summary>
                     <div class="text-slate-500 font-light leading-relaxed p-6 pt-0 text-sm">
-                        Absolutt. Vi representerer klienter over hele Norge og internasjonalt, spesielt i utlendings- og NAV-saker. Konsultasjoner kan gjennomføres via telefon eller videosamtale.
+                        Ja. Vi representerer klienter over hele Norge og internasjonalt, særlig i utlendings- og NAV-saker. Konsultasjoner kan gjennomføres via telefon eller video.
                     </div>
                 </details>
             </div>
